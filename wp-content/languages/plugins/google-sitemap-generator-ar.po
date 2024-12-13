@@ -1,0 +1,499 @@
+# Translation of Plugins - XML Sitemap Generator for Google - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - XML Sitemap Generator for Google - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-21 13:46:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - XML Sitemap Generator for Google - Stable (latest release)\n"
+
+#: sitemap-core.php:651
+msgid "Comment Count"
+msgstr "عدد التعليقات"
+
+#: sitemap-core.php:661
+msgid "Uses the number of comments of the post to calculate the priority"
+msgstr "أستخدم عدد التعليقات لحساب الأولوية"
+
+#: sitemap-core.php:719
+msgid "Comment Average"
+msgstr "متوسط التعليقات"
+
+#: sitemap-core.php:729
+msgid "Uses the average comment count to calculate the priority"
+msgstr "أستخدم متوسط التعليقات لحساب الأولوية"
+
+#: sitemap-core.php:917
+msgid "Always"
+msgstr "دائماً"
+
+#: sitemap-core.php:918
+msgid "Hourly"
+msgstr "كل ساعة"
+
+#: sitemap-core.php:919
+msgid "Daily"
+msgstr "يومياً"
+
+#: sitemap-core.php:921
+msgid "Monthly"
+msgstr "شهرياً"
+
+#: sitemap-core.php:922
+msgid "Yearly"
+msgstr "سنوياً"
+
+#: sitemap-core.php:923
+msgid "Never"
+msgstr "أبداً"
+
+#: class-googlesitemapgeneratorui.php:745
+msgid "Hide this notice"
+msgstr "أخفاء هذا التبليغ"
+
+#: class-googlesitemapgeneratorui.php:547
+msgid "Configuration updated"
+msgstr "تم تحديث الإعدادات"
+
+#: class-googlesitemapgeneratorui.php:549
+msgid "Error while saving options"
+msgstr "حدث خطأ عند حفظ إعدادات الصفحات"
+
+#: class-googlesitemapgeneratorui.php:554
+msgid "Pages saved"
+msgstr "تم حفظ إعدادات الصفحات"
+
+#: class-googlesitemapgeneratorui.php:556
+msgid "Error while saving pages"
+msgstr "حدث خطأ عند حفظ إعدادات الصفحات"
+
+#: class-googlesitemapgeneratorui.php:1103
+msgid "About this Plugin:"
+msgstr "عن هذه الأضافة"
+
+#: class-googlesitemapgeneratorui.php:1104
+msgid "Plugin Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: class-googlesitemapgeneratorui.php:1105
+msgid "Suggest a Feature"
+msgstr "رشح خاصية جديدة"
+
+#: class-googlesitemapgeneratorui.php:1109
+msgid "Report a Bug"
+msgstr "أبلغ عن خطأ"
+
+#: class-googlesitemapgeneratorui.php:1111
+#: class-googlesitemapgeneratorui.php:1113
+msgid "translator_name"
+msgstr "إعادة الترجمة : حازم خالد"
+
+#: class-googlesitemapgeneratorui.php:1113
+msgid "translator_url"
+msgstr "http://HazemKhaled.com"
+
+#: class-googlesitemapgeneratorui.php:1116
+msgid "Sitemap Resources:"
+msgstr "موارد خريطة الموقع:"
+
+#: class-googlesitemapgeneratorui.php:1122
+msgid "Sitemaps Protocol"
+msgstr "بروتوكول خريطة الموقع"
+
+#: class-googlesitemapgeneratorui.php:1124
+msgid "Official Sitemaps FAQ"
+msgstr "الأسئلة الشائعة الرسمية عن خريطة المواقع"
+
+#: class-googlesitemapgeneratorui.php:1348
+msgid "Add sitemap URL to the virtual robots.txt file."
+msgstr "إضافة خريطة الموقع لملف robots.txt"
+
+#: class-googlesitemapgeneratorui.php:1358
+msgid "Advanced options:"
+msgstr "خيارات متقدمة"
+
+#: class-googlesitemapgeneratorui.php:1361
+msgid "Try to increase the memory limit to:"
+msgstr "حاول تزيد حد الذاكرة إلى:"
+
+#: class-googlesitemapgeneratorui.php:1364
+msgid "Try to increase the execution time limit to:"
+msgstr "حاول زيادة مدة التنفيذ :"
+
+#: class-googlesitemapgeneratorui.php:1375
+msgid "Include a XSLT stylesheet:"
+msgstr "أستخدام ملف تنسيقي XSLT:"
+
+#: class-googlesitemapgeneratorui.php:1376
+msgid "Full or relative URL to your .xsl file"
+msgstr "الرابط كاملاً ملفم ال .xsl"
+
+#: class-googlesitemapgeneratorui.php:1380
+msgid "Use default"
+msgstr "أستخدام الأفتراضي"
+
+#: class-googlesitemapgeneratorui.php:1424
+#: class-googlesitemapgeneratorui.php:1767
+#: class-googlesitemapgeneratorui.php:1776
+msgid "Note"
+msgstr "تنبيه"
+
+#: class-googlesitemapgeneratorui.php:1427
+#: class-googlesitemapgeneratorui.php:1494
+msgid "URL to the page"
+msgstr "رابط الصفحة"
+
+#: class-googlesitemapgeneratorui.php:1428
+msgid "Enter the URL to the page. Examples: http://www.foo.com/index.html or www.foo.com/home "
+msgstr "ضع رابط الصفحة ، مثلاً : http://www.foo.com/index.html أو www.foo.com/home ."
+
+#: class-googlesitemapgeneratorui.php:1430
+#: class-googlesitemapgeneratorui.php:1495
+msgid "Priority"
+msgstr "الأفضلية"
+
+#: class-googlesitemapgeneratorui.php:1431
+msgid "Choose the priority of the page relative to the other pages. For example, your homepage might have a higher priority than your imprint."
+msgstr "إختر أفضلية الصفحة نسبة إلى الصفحات الأخرى ، على سبيل المثال ، صفحتك الرئيسية لربّما يكون لها أفضلية أعلى من سيرتك الذاتية ."
+
+#: class-googlesitemapgeneratorui.php:1433
+#: class-googlesitemapgeneratorui.php:1497
+msgid "Last Changed"
+msgstr "آخر تعديل"
+
+#: class-googlesitemapgeneratorui.php:1434
+msgid "Enter the date of the last change as YYYY-MM-DD (2005-12-31 for example) (optional)."
+msgstr "ضع تاريخ آخر تعديل كـ YYYY-MM-DD (مثلاً : 2005-12-31) (اختياري) ."
+
+#: class-googlesitemapgeneratorui.php:1496
+msgid "Change Frequency"
+msgstr "فترة التحديث"
+
+#: class-googlesitemapgeneratorui.php:1498
+msgid "#"
+msgstr "#"
+
+#: class-googlesitemapgeneratorui.php:1504
+msgid "No pages defined."
+msgstr "لا يوجد صفحات مضافة ."
+
+#: class-googlesitemapgeneratorui.php:1510
+msgid "Add new page"
+msgstr "أضف صفحة جديدة"
+
+#: class-googlesitemapgeneratorui.php:1516
+msgid "Post Priority"
+msgstr "الأفضلية"
+
+#: class-googlesitemapgeneratorui.php:1518
+msgid "Please select how the priority of each post should be calculated:"
+msgstr "الرجاء اختيار مدى أولوية كل تدوينة :"
+
+#: class-googlesitemapgeneratorui.php:1536
+msgid "Sitemap Content"
+msgstr "محتوى خريطة الموقع"
+
+#: class-googlesitemapgeneratorui.php:1542
+msgid "Include homepage"
+msgstr "تضمين الصفحة الرئيسية"
+
+#: class-googlesitemapgeneratorui.php:1572
+msgid "Include categories"
+msgstr "تضمين التصنيفات"
+
+#: class-googlesitemapgeneratorui.php:1703
+msgid "Excluded categories"
+msgstr "استبعاد التصنيفات"
+
+#: class-googlesitemapgeneratorui.php:1765
+msgid "List of IDs, separated by comma"
+msgstr "ضع الأرقام IDs, وأفصل بينهم بكومة انجليزية"
+
+#: class-googlesitemapgeneratorui.php:1767
+msgid "Child posts won't be excluded automatically!"
+msgstr "المواضيع التابعة لن تستبعد تلقائيا!"
+
+#: class-googlesitemapgeneratorui.php:1783
+#: class-googlesitemapgeneratorui.php:1846
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: class-googlesitemapgeneratorui.php:1789
+msgid "Posts"
+msgstr "التدوينات"
+
+#: class-googlesitemapgeneratorui.php:1795
+#: class-googlesitemapgeneratorui.php:1867
+msgid "Static pages"
+msgstr "الصفحات"
+
+#: class-googlesitemapgeneratorui.php:1801
+#: class-googlesitemapgeneratorui.php:1873
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: class-googlesitemapgeneratorui.php:1813
+msgid "The current archive of this month (Should be the same like your homepage)"
+msgstr "أرشيف الشهر الحالي (يفضل أن يكون مثل الصفحة الرئيسية)"
+
+#: class-googlesitemapgeneratorui.php:1819
+msgid "Older archives (Changes only if you edit an old post)"
+msgstr "الأرشيف السابق (يتغير عندما تحرر تدوينة قديمة فقط)"
+
+#: class-googlesitemapgeneratorui.php:1826
+#: class-googlesitemapgeneratorui.php:1892
+msgid "Tag pages"
+msgstr "صفحات التاجات"
+
+#: class-googlesitemapgeneratorui.php:1833
+#: class-googlesitemapgeneratorui.php:1900
+msgid "Author pages"
+msgstr "صفحات المؤلفين"
+
+#: class-googlesitemapgeneratorui.php:1841
+msgid "Priorities"
+msgstr "الأفضليات"
+
+#: class-googlesitemapgeneratorui.php:1853
+msgid "Posts (If auto calculation is disabled)"
+msgstr "التدوينات (إذا كان الحساب الآلي غير مفعل)"
+
+#: class-googlesitemapgeneratorui.php:1860
+msgid "Minimum post priority (Even if auto calculation is enabled)"
+msgstr "أفضلية التدوينة الدنيا (حتى إذا كان الحساب الآلي مفعل)"
+
+#: class-googlesitemapgeneratorui.php:1885
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: class-googlesitemapgeneratorui.php:1924
+msgid "Update options"
+msgstr "تحديث الإعدادات"
+
+#: class-googlesitemapgeneratorloader.php:310
+msgid "XML-Sitemap Generator"
+msgstr "صانع خريطة الموقع"
+
+#: class-googlesitemapgeneratorloader.php:310
+msgid "XML-Sitemap"
+msgstr "خريطة الموقع"
+
+#: class-googlesitemapgeneratorloader.php:735
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: class-googlesitemapgeneratorui.php:1166
+msgid "Disable"
+msgstr "تعطيل"
+
+#: class-googlesitemapgeneratorui.php:1186
+msgid "Enable"
+msgstr "تفعيل"
+
+#: class-googlesitemapgeneratorloader.php:737
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: class-googlesitemapgeneratorui.php:1591
+msgid "Include tag pages"
+msgstr "تضمين صفحات الوسوم"
+
+#: class-googlesitemapgeneratorui.php:1578
+msgid "Include archives"
+msgstr "تضمين الأرشيفات"
+
+#: class-googlesitemapgeneratorui.php:1584
+msgid "Include author pages"
+msgstr "تضمين صفحات الكتّاب"
+
+#: class-googlesitemapgeneratorui.php:1566
+msgid "Include static pages"
+msgstr "تضمين الصفحات الثابتة"
+
+#: class-googlesitemapgeneratorui.php:1548
+msgid "Include posts"
+msgstr "تضمين المقالات"
+
+#. translators: %s: search term
+#: class-googlesitemapgeneratorui.php:1153
+msgid "Result of the last ping, started on %date%."
+msgstr "نتائج آخر اتصال، بدأ في %date%."
+
+#: class-googlesitemapgeneratorui.php:1925
+msgid "Reset options"
+msgstr "إعادة تعيين الإعدادات"
+
+#: sitemap.php:303
+msgid "Your WordPress version is too old for XML Sitemaps."
+msgstr "إصدار WordPress الخاص بك قديم جدًا بالنسبة لخرائط XML Sitemaps."
+
+#: sitemap.php:315
+msgid "Your PHP version is too old for XML Sitemaps."
+msgstr "إصدار PHP الخاص بك قديم جدًا بالنسبة لخرائط XML Sitemaps."
+
+#: class-googlesitemapgeneratorui.php:1298
+msgid "Basic Options"
+msgstr "الإعدادات الأساسية"
+
+#: class-googlesitemapgeneratorui.php:1228
+msgid "%s was <b>successfully notified</b> about changes."
+msgstr "%s <b>لقد تم الإخطار بنجاح</b> عن التغييرات."
+
+#: class-googlesitemapgeneratorui.php:1537
+msgid "WordPress standard content"
+msgstr "محتوى WordPress القياسي"
+
+#: class-googlesitemapgeneratorui.php:1608
+msgid "Custom taxonomies"
+msgstr "تصنيفات وفئات مخصصة"
+
+#. translators: %s: search term
+#: class-googlesitemapgeneratorui.php:1623
+msgid "Include taxonomy pages for %s"
+msgstr "تضمين صفحات التصنيف: %s"
+
+#. translators: %s: search term
+#: class-googlesitemapgeneratorui.php:1658
+msgid "Include custom post type %s"
+msgstr "تضمين نوع المقالة المخصص: %s"
+
+#: class-googlesitemapgeneratorui.php:1763
+msgid "Exclude posts"
+msgstr "استبعاد المقالات والتدوينات"
+
+#: class-googlesitemapgeneratorui.php:1765
+msgid "Exclude the following posts or pages:"
+msgstr "استبعاد التدوينات أو المواضيع التالية:"
+
+#: class-googlesitemapgeneratorui.php:1672
+msgid "Further options"
+msgstr "خيارات أخرى"
+
+#: class-googlesitemapgeneratorui.php:1677
+msgid "Include the last modification time."
+msgstr "تضمين وقت التعديل الأخير."
+
+#: class-googlesitemapgeneratorui.php:1147
+msgid "Search engines haven't been notified yet"
+msgstr "لم يتم إخطار محركات البحث حتى الآن"
+
+#: class-googlesitemapgeneratorui.php:1399
+msgid "Include sitemap in HTML format"
+msgstr "تضمين ملف sitemap بتنسيق HTML"
+
+#: class-googlesitemapgeneratorui.php:1186
+msgid "Support Topics have been disabled. Enable them to see useful information regarding this plugin. No Ads or Spam!"
+msgstr "مواضيع الدعم تم تعطيلها. قم بتفعيلها لمشاهدة معلومات مفيدة متعلقة بهذه الإضافة. ليست إعلانات أو محتويات مزعجة!"
+
+#: class-googlesitemapgeneratorui.php:1183
+msgid "No support topics available or an error occurred while fetching them."
+msgstr "لا توجد مواضيع دعم متوفرة أو أخطاء حدثت أثناء الجلب."
+
+#: class-googlesitemapgeneratorui.php:1162
+msgid "Recent Support Topics / News"
+msgstr "مواضيع الدعم الفني الأخيرة / الأخبار"
+
+#: sitemap-core.php:2794
+msgid "Don't show this anymore"
+msgstr "عدم إظهار هذا بعد الآن."
+
+#: class-googlesitemapgeneratorui.php:777
+msgid "No thanks, please don't bug me anymore!"
+msgstr "لا شكرًا، من فضلك لا تزعجني مجددًا!"
+
+#: class-googlesitemapgeneratorui.php:777
+msgid "Sure, but I already did!"
+msgstr "بالتأكيد، ولكن قمت بذلك فعلاً."
+
+#: class-googlesitemapgeneratorui.php:659
+msgid "All done!"
+msgstr "تمّ بنجاح!"
+
+#: class-googlesitemapgeneratorui.php:636
+msgid "Notify Search Engines about all sitemaps"
+msgstr "إبلاغ محركات البحث عن جميع خرائط sitemaps"
+
+#: class-googlesitemapgeneratorui.php:597
+msgid "The old files were successfully deleted."
+msgstr "تمّ حذف الملفات القديمة بنجاح."
+
+#: class-googlesitemapgeneratorui.php:585
+msgid "The default configuration was restored."
+msgstr "تمّ استعادة إعدادات التكوين الافتراضية."
+
+#: class-googlesitemapgeneratorui.php:595
+msgid "The old files could NOT be deleted. Please use an FTP program and delete them by yourself."
+msgstr "لا يمكن حذف الملفات القديمة. يرجى استخدام برنامج FTP وحذف الملفات بنفسك."
+
+#: class-googlesitemapgeneratorui.php:1281
+msgid "Webserver Configuration"
+msgstr "تكوين إعدادات خادم الويب"
+
+#: class-googlesitemapgeneratorui.php:745
+msgid "Thank you very much for your donation. You help me to continue support and development of this plugin and other free software!"
+msgstr "شكراً جزيلاً لتبرعك. أنت تساعدني على الاستمرار بدعم وتطوير هذه الإضافة وباقي البرمجيات المجانية."
+
+#: class-googlesitemapgeneratorui.php:675
+#: class-googlesitemapgeneratorui.php:686
+msgid "Ping was executed, please see below for the result."
+msgstr "تم التنبيه والابلاغ، يرجى الاطلاع أدناه للنتيجة."
+
+#: class-googlesitemapgeneratorui.php:637
+msgid "The plugin is notifying the selected search engines about your main sitemap and all sub-sitemaps. This might take a minute or two."
+msgstr "الإضافة ستبلغ محركات البحث التي اخترتها بالخريطة الرئيسية والخرائط الفرعية. قد تستغرق دقيقة أو دقيقتين."
+
+#: class-googlesitemapgeneratorui.php:1383
+msgid "Override the base URL of the sitemap:"
+msgstr "تجاوز عنوان الرابط الأساسي لخريطة الموقع:"
+
+#: class-googlesitemapgeneratorui.php:1371
+msgid "Disable this option if you get garbled content or encoding errors in your sitemap."
+msgstr "قم بتعطيل هذا الخيار إذا حصلت على محتوى مُشوّه أو أخطاء ترميز في خريطة الموقع."
+
+#: class-googlesitemapgeneratorui.php:1402
+msgid "(The required PHP XSL Module is not installed)"
+msgstr "(وحدة PHP XSL المطلوبة غير مثبتة)"
+
+#: class-googlesitemapgeneratorui.php:1369
+msgid "Try to automatically compress the sitemap if the requesting client supports it."
+msgstr "حاول ضغط خريطة الموقع تلقائيًا إذا كان طلب العميل يدعمها."
+
+#: class-googlesitemapgeneratorui.php:1282
+msgid "Since you are using Nginx as your web-server, please configure the following rewrite rules in case you get 404 Not Found errors for your sitemap:"
+msgstr "نظرًا لأنك تستخدم Nginx كخادم الويب الخاص بك، فالرجاء تهيئة قواعد إعادة الكتابة التالية في حالة حصولك على أخطاء لم يتم العثور 404 لملف Sitemap الخاص بك:"
+
+#: class-googlesitemapgeneratorui.php:1684
+msgid "This is highly recommended and helps the search engines to know when your content has changed. This option affects <i>all</i> sitemap entries."
+msgstr "يُنصح بهذا بشدة، ويساعد محركات البحث أيضًا على معرفة متى ما تم تغير المحتوى الخاص بك. يؤثر هذا الخيار على <i>جميع</i> إدخالات خريطة الموقع."
+
+#. translators: %s: search term
+#: class-googlesitemapgeneratorui.php:1257
+msgid "If you encounter any problems with your sitemap you can use the <a href=\"%d\">debug function</a> to get more information."
+msgstr "إذا واجهت أي مشكلة في ملف Sitemap، فيمكنك استخدام <a href=\"%d\">وظيفة التحقق من الأخطاء debug</a> للحصول على مزيد من المعلومات."
+
+#: class-googlesitemapgeneratorui.php:1231
+msgid "It took %time% seconds to notify %name%, maybe you want to disable this feature to reduce the building time."
+msgstr "استغرق الأمر %time% ثانية لإخطار %name%، ربما قد ترغب بتعطيل هذه الميزة لتقليل وقت البناء."
+
+#: class-googlesitemapgeneratorloader.php:736
+msgid "FAQ"
+msgstr "الأسئلة المتكررّة"
+
+#: sitemap-core.php:920
+msgid "Weekly"
+msgstr "أسبوعياً"
+
+#: class-googlesitemapgeneratorui.php:1643
+msgid "Custom post types"
+msgstr "أنواع الصفحات المخصصة"
+
+#: class-googlesitemapgeneratorui.php:1300
+#: class-googlesitemapgeneratorui.php:1358
+#: class-googlesitemapgeneratorui.php:1384
+#: class-googlesitemapgeneratorui.php:1388
+msgid "Learn more"
+msgstr "معرفة المزيد"

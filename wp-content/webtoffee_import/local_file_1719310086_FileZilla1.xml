@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.67.0" platform="mac">
+	<Queue>
+		<Server>
+			<Host>157.245.40.18</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>aguwaxhjuj-sftp</User>
+			<Logontype>2</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<File>
+				<LocalFile>/Users/hema/apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</LocalFile>
+				<RemoteFile>apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</RemoteFile>
+				<RemotePath>1 0 4 logs</RemotePath>
+				<Flags>16</Flags>
+				<Size>4483</Size>
+			</File>
+			<File>
+				<LocalFile>/Users/hema/apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</LocalFile>
+				<RemoteFile>apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</RemoteFile>
+				<RemotePath>1 0 4 logs</RemotePath>
+				<Flags>16</Flags>
+				<Size>4483</Size>
+			</File>
+			<File>
+				<LocalFile>/Users/hema/apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</LocalFile>
+				<RemoteFile>apache_wordpress-319567-2806055.cloudwaysapps.com.access.log</RemoteFile>
+				<RemotePath>1 0 4 logs</RemotePath>
+				<Flags>16</Flags>
+				<Size>4483</Size>
+			</File>
+		</Server>
+	</Queue>
+</FileZilla3>

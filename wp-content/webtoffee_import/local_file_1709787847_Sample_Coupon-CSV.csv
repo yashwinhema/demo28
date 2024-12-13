@@ -1,0 +1,3 @@
+post_title,post_excerpt,post_status,post_date,post_author,discount_type,coupon_amount,individual_use,exclude_product_SKUs,usage_count,usage_limit,usage_limit_per_user,limit_usage_to_x_items,date_expires,free_shipping,exclude_sale_items,product_categories,exclude_product_categories,minimum_amount,maximum_amount,meta:_wt_sc_user_roles
+OFF10,10% on all orders,publish,2020-04-16 10:36:32,1,percent,10,no,PH-025,1,2,1,0,2022-01-01,no,no,Cloths,Accessories,100,,
+B9BSVCF5,get 5 off on cart,publish,2020-04-16 10:36:32,1,fixed_cart,5,no,,5,0,0,0,,no,no,,,,2000,subscriber

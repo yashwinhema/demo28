@@ -1,0 +1,17 @@
+post_title,post_name,post_parent,ID,post_content,post_excerpt,post_status,post_password,menu_order,post_date,post_author,comment_status,sku,parent_sku,children,downloadable,virtual,stock,regular_price,sale_price,weight,length,width,height,tax_class,stock_status,backorders,sold_individually,low_stock_amount,manage_stock,tax_status,upsell_ids,crosssell_ids,featured,purchase_note,sale_price_dates_from,sale_price_dates_to,download_limit,download_expiry,product_url,button_text,images,downloadable_files,product_page_url,tax:product_type,tax:product_visibility,tax:product_cat,tax:product_tag,tax:product_shipping_class,meta:total_sales,meta:attribute_color,attribute:color,attribute_data:color,attribute_default:color
+Men's Cotton T-Shirt,mens-cotton-t-shirt,,51,Strut on the streets in comfort adorning this slim-fit T-Shirt from the house of Tinted. This unique creation is made using rayon that will highlight your torso. Work hard and play hard as you party through the night in this utterly comfortable T-Shirt.,The images represent actual product though color of the image and product may slightly differ.,publish,,0,2023-03-20 06:37:47,1,open,B11,,,no,no,null,550,,1,,,,,instock,no,no,,no,taxable,63,63,,,,,'-1,'-1,,,https://media.wtdev.xyz/wp-content/uploads/2020/04/wt-men-t-shirt-red.png ! alt :  ! title : wt-men-t-shirt-red.png ! desc :  ! caption : ,,https://example.com/index.php/product/mens-cotton-t-shirt/,simple,,Clothing & Accessories > Men > Tops & Tees > T-Shirts,T-Shirts,,0,,Blue | Red,0|1|1,Red
+Oversized t shirt,oversized-t-shirt,,63,"<div class=""woocommerce-product-details__short-description"">
+
+his unique creation is made using rayon that will highlight your torso. Work hard and play hard as you party through the night in this utterly comfortable T-Shirt.
+
+</div>
+<form class=""cart"" action=""https://example.com/index.php/product/mens-cotton-t-shirt/"" enctype=""multipart/form-data"" method=""post"">
+<div class=""quantity""></div>
+</form>","<div class=""woocommerce-product-details__short-description"">
+
+The images represent actual product though color of the image and product may slightly differ.
+
+</div>
+<form class=""cart"" action=""https://example.com/index.php/product/mens-cotton-t-shirt/"" enctype=""multipart/form-data"" method=""post"">
+<div class=""quantity""></div>
+</form>",publish,,0,2023-03-27 07:03:06,1,open,,,,no,no,null,450,,,,,,,instock,no,no,,no,taxable,,,,,,,'-1,'-1,,,https://media.wtdev.xyz/wp-content/uploads/2020/04/wt-men-t-shirt-blue.png ! alt : wt-men-t-shirt-blue.png ! title : wt-men-t-shirt-blue.png ! desc :  ! caption : ,,https://example.com/index.php/product/oversized-t-shirt/,simple,,Clothing & Accessories|Clothing & Accessories > Men|Clothing & Accessories > Men > Tops & Tees > T-Shirts,,,0,,,,

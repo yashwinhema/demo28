@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders><Order>
+ <order_id>12</order_id>
+ <order_number>12</order_number>
+ <order_date>2021-05-11 04:51:10</order_date>
+ <status>pending</status>
+ <shipping_total>0</shipping_total>
+ <shipping_tax_total>0.00</shipping_tax_total>
+ <fee_total>0.00</fee_total>
+ <fee_tax_total>0.00</fee_tax_total>
+ <tax_total>0.00</tax_total>
+ <cart_discount>0.00</cart_discount>
+ <order_discount>0.00</order_discount>
+ <discount_total>0.00</discount_total>
+ <order_total>1111110.00</order_total>
+ <order_subtotal>1111110.00</order_subtotal>
+ <order_currency>GBP</order_currency>
+ <payment_method></payment_method>
+ <shipping_method></shipping_method>
+ <customer_id>0</customer_id>
+ <customer_user>0</customer_user>
+ <customer_email></customer_email>
+ <billing_first_name></billing_first_name>
+ <billing_last_name></billing_last_name>
+ <billing_company></billing_company>
+ <billing_email></billing_email>
+ <billing_phone></billing_phone>
+ <billing_address_1></billing_address_1>
+ <billing_address_2></billing_address_2>
+ <billing_postcode></billing_postcode>
+ <billing_city></billing_city>
+ <billing_state></billing_state>
+ <billing_country></billing_country>
+ <shipping_first_name></shipping_first_name>
+ <shipping_last_name></shipping_last_name>
+ <shipping_company></shipping_company>
+ <shipping_address_1></shipping_address_1>
+ <shipping_address_2></shipping_address_2>
+ <shipping_postcode></shipping_postcode>
+ <shipping_city></shipping_city>
+ <shipping_state></shipping_state>
+ <shipping_country></shipping_country>
+ <customer_note></customer_note>
+ <wt_import_key>12</wt_import_key>
+ <shipping_items></shipping_items>
+ <fee_items></fee_items>
+ <tax_items></tax_items>
+ <coupon_items></coupon_items>
+ <refund_items></refund_items>
+ <order_notes>content:Added line items: 123 (#10)|date:2021-05-11 04:51:21|customer:|added_by:admin</order_notes>
+ <download_permissions>0</download_permissions>
+ <line_item_1>name:123|product_id:0|sku:|quantity:1|total:1111110.00|sub_total:1111110.00</line_item_1>
+</Order>
+<Order>
+ <order_id>11</order_id>
+ <order_number>11</order_number>
+ <order_date>2021-05-11 04:51:10</order_date>
+ <status>pending</status>
+ <shipping_total>0</shipping_total>
+ <shipping_tax_total>0.00</shipping_tax_total>
+ <fee_total>0.00</fee_total>
+ <fee_tax_total>0.00</fee_tax_total>
+ <tax_total>0.00</tax_total>
+ <cart_discount>0.00</cart_discount>
+ <order_discount>0.00</order_discount>
+ <discount_total>0.00</discount_total>
+ <order_total>1111110.00</order_total>
+ <order_subtotal>1111110.00</order_subtotal>
+ <order_currency>GBP</order_currency>
+ <payment_method></payment_method>
+ <shipping_method></shipping_method>
+ <customer_id>0</customer_id>
+ <customer_user>0</customer_user>
+ <customer_email></customer_email>
+ <billing_first_name></billing_first_name>
+ <billing_last_name></billing_last_name>
+ <billing_company></billing_company>
+ <billing_email></billing_email>
+ <billing_phone></billing_phone>
+ <billing_address_1></billing_address_1>
+ <billing_address_2></billing_address_2>
+ <billing_postcode></billing_postcode>
+ <billing_city></billing_city>
+ <billing_state></billing_state>
+ <billing_country></billing_country>
+ <shipping_first_name></shipping_first_name>
+ <shipping_last_name></shipping_last_name>
+ <shipping_company></shipping_company>
+ <shipping_address_1></shipping_address_1>
+ <shipping_address_2></shipping_address_2>
+ <shipping_postcode></shipping_postcode>
+ <shipping_city></shipping_city>
+ <shipping_state></shipping_state>
+ <shipping_country></shipping_country>
+ <customer_note></customer_note>
+ <wt_import_key>11</wt_import_key>
+ <shipping_items></shipping_items>
+ <fee_items></fee_items>
+ <tax_items></tax_items>
+ <coupon_items></coupon_items>
+ <refund_items></refund_items>
+ <order_notes>content:Added line items: 123 (#10)|date:2021-05-11 04:51:21|customer:|added_by:admin</order_notes>
+ <download_permissions>0</download_permissions>
+ <line_item_1>name:123|product_id:0|sku:|quantity:1|total:1111110.00|sub_total:1111110.00</line_item_1>
+</Order>
+</Orders>

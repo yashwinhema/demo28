@@ -1,0 +1,1265 @@
+# Translation of Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) in Persian (Afghanistan)
+# This file is distributed under the same license as the Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-13 03:58:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: fa_AF\n"
+"Project-Id-Version: Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release)\n"
+
+#: includes/Modules/AdSense.php:965
+msgid "End Google AdSense meta tags added by Site Kit"
+msgstr "پایان دادن به متا تگ های گوگل ادسنس که توسط سایت کیت اضافه شده است"
+
+#: includes/Modules/AdSense.php:961
+msgid "Google AdSense meta tags added by Site Kit"
+msgstr "متا تگ های گوگل ادسنس توسط سایت کیت اضافه شده است"
+
+#: includes/Core/Site_Health/Tag_Placement.php:241
+#: includes/Core/Site_Health/Tag_Placement.php:248
+msgid "No tag detected."
+msgstr "هیچ برچسبی شناسایی نشد."
+
+#: includes/Core/Site_Health/Tag_Placement.php:234
+msgid "Tag detected but could not verify that Site Kit placed the tag."
+msgstr "برچسب شناسایی شد اما نتوانست تأیید کند که کیت سایت برچسب را گذاشته است."
+
+#: includes/Core/Site_Health/Tag_Placement.php:227
+msgid "Tag detected and placed by Site Kit."
+msgstr "برچسب توسط سایت کیت شناسایی و قرار داده شد."
+
+#: includes/Core/Site_Health/Tag_Placement.php:164
+msgid "Tag placement disabled in settings."
+msgstr "قرار دادن برچسب در تنظیمات غیرفعال است."
+
+#: includes/Core/Site_Health/Tag_Placement.php:147
+msgid "Tags are not output in the current environment."
+msgstr "برچسب ها در محیط فعلی خروجی نمی شوند."
+
+#: includes/Core/Site_Health/Tag_Placement.php:138
+msgid "There was an error while trying to get the status, please try again later."
+msgstr "هنگام تلاش برای دریافت وضعیت خطایی روی داد، لطفاً بعداً دوباره امتحان کنید."
+
+#: includes/Core/Site_Health/Tag_Placement.php:126
+msgid "Tag status not available: no modules that place tags are connected."
+msgstr "وضعیت برچسب در دسترس نیست: هیچ ماژولی که برچسب‌ها را قرار می‌دهند متصل نیستند."
+
+#: includes/Core/Site_Health/Tag_Placement.php:116
+msgid "This feature requires WordPress version 5.6 or higher"
+msgstr "این ویژگی به نسخه وردپرس 5.6 یا بالاتر نیاز دارد"
+
+#. translators: %s: translatable module name
+#: includes/Core/Modules/Module_With_Tag_Trait.php:38
+msgid "Google %s snippet added by Site Kit"
+msgstr "قطعه گوگل %s توسط کیت سایت اضافه شد"
+
+#. translators: %s: Invalid custom dimension slug
+#: includes/Modules/Analytics_4.php:1086
+msgid "Invalid custom dimension slug: %s."
+msgstr "اسلگ ابعاد سفارشی نامعتبر: %s."
+
+#: includes/Modules/Analytics_4.php:377
+msgid "Analytics 4 available custom dimensions"
+msgstr "تجزیه و تحلیل 4 ابعاد سفارشی موجود"
+
+#. translators: %s: Invalid property names
+#: includes/Modules/Analytics_4.php:1021
+msgid "Invalid properties in customDimension: %s."
+msgstr "ویژگی های نامعتبر در ابعاد سفارشی: %s."
+
+#. translators: %s: Invalid scope
+#: includes/Modules/Analytics_4.php:1037
+msgid "Invalid scope: %s."
+msgstr "محدوده نامعتبر: %s."
+
+#. translators: %s: Invalid property names
+#: includes/Modules/Analytics_4.php:964
+msgid "Invalid properties in enhancedMeasurementSettings: %s."
+msgstr "ویژگی های نامعتبر در بهبود یافته تنظیمات اندازه گیری: %s."
+
+#: includes/Modules/Analytics_4.php:454
+msgid "You’ll need to grant Site Kit permission to update enhanced measurement settings for this Analytics 4 web data stream on your behalf."
+msgstr "برای به‌روزرسانی تنظیمات اندازه‌گیری پیشرفته برای این جریان داده وب آنالیز 4 از طرف شما، باید به کیت سایت اجازه دهید."
+
+#: includes/Core/Key_Metrics/REST_Key_Metrics_Controller.php:128
+msgid "Selected metrics cannot be empty."
+msgstr "معیارهای انتخابی نمی توانند خالی باشند."
+
+#: includes/Modules/AdSense.php:274
+msgid "Ad Blocking Recovery setup status"
+msgstr "وضعیت راه اندازی بازیابی مسدود کردن آگهی"
+
+#: includes/Modules/AdSense.php:266
+msgid "Ad Blocking Recovery error protection snippet placed"
+msgstr "قطعه حفاظتی خطای بازیابی بازیابی مسدود کردن تبلیغات قرار داده شد"
+
+#: includes/Modules/AdSense.php:258
+msgid "Ad Blocking Recovery snippet placed"
+msgstr "قطعه بازیابی مسدود کردن تبلیغات قرار گرفت"
+
+#: includes/Modules/AdSense.php:250
+msgid "AdSense setup completed at"
+msgstr "راه اندازی ادسنس تکمیل شد"
+
+#: includes/Modules/AdSense.php:1100
+msgid "Snippet is placed"
+msgstr "قطعه قرار داده شده است"
+
+#: includes/Modules/AdSense.php:1104
+msgid "Not set up"
+msgstr "تنظیم نشده است"
+
+#: includes/Modules/AdSense.php:1102
+msgid "Setup complete"
+msgstr "راه‌اندازی کامل شد"
+
+#: includes/Modules/AdSense.php:254
+msgid "Not available"
+msgstr "در دسترس نیست"
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:92
+msgid "End Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit"
+msgstr "پایان بخش حفاظت از خطای بازیابی تبلیغات ادسنس که توسط سایت کیت اضافه شد"
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:90
+msgid "Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit"
+msgstr "قطعه حفاظت از خطای بازیابی تبلیغات گوگل ادسنس توسط سایت کیت اضافه شد"
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:88
+msgid "End Google AdSense Ad Blocking Recovery snippet added by Site Kit"
+msgstr "پایان بازیابی گوگل ادسنس قطعه آگهی مسدود کردن آگهی که توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:86
+msgid "Google AdSense Ad Blocking Recovery snippet added by Site Kit"
+msgstr "قطعه بازیابی مسدودسازی تبلیغات گوگل ادسنس توسط سایت کیت اضافه شده است"
+
+#: includes/Core/Admin/Screens.php:477
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-83e4c182453a90c744c7.js:31
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:62
+msgid "Ad Blocking Recovery"
+msgstr "بازیابی مسدود کردن تبلیغات"
+
+#. translators: 1: the regular expression for a valid name, 2: the invalid
+#. metric.
+#: includes/Modules/Analytics_4/Report/Request.php:188
+msgid "Metric name should match the expression %1$s: %2$s"
+msgstr "نام متریک باید با عبارت %1$s مطابقت داشته باشد: %2$s"
+
+#. translators: 1: the regular expression for a valid name, 2: a comma
+#. separated list of the invalid metrics.
+#: includes/Modules/Analytics_4/Report/Request.php:176
+msgid "Metric names should match the expression %1$s: %2$s"
+msgstr "نام‌های متریک باید با عبارت %1$s مطابقت داشته باشند: %2$s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:520
+msgid "Module does not support setting data available state."
+msgstr "ماژول از تنظیم وضعیت موجود داده پشتیبانی نمی کند."
+
+#: includes/Modules/Analytics_4.php:709 includes/Modules/Analytics_4.php:725
+#: includes/Modules/Analytics_4.php:871 includes/Modules/Analytics_4.php:1062
+#: includes/Modules/Analytics_4.php:1194
+msgid "No connected Google Analytics 4 property ID."
+msgstr "شناسه دارایی گوگل آنالیتیکس 4 متصل نیست."
+
+#: includes/Core/Key_Metrics/REST_Key_Metrics_Controller.php:139
+msgid "No more than 4 key metrics can be selected."
+msgstr "بیش از 4 معیار کلیدی را نمی توان انتخاب کرد."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:161
+msgid "Whether the module is recoverable."
+msgstr "اینکه آیا ماژول قابل بازیابی است."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:157
+msgid "Whether the module is shareable."
+msgstr "اینکه آیا ماژول قابل اشتراک گذاری است یا خیر."
+
+#. translators: %s: is replaced with a comma separated list of the invalid
+#. dimensions.
+#: includes/Modules/AdSense.php:1067 includes/Modules/Analytics.php:1475
+#: includes/Modules/Analytics_4/Report/Request.php:305
+msgid "Unsupported dimensions requested: %s"
+msgstr "ابعاد پشتیبانی نشده درخواست شده: %s"
+
+#. translators: %s: is replaced with a comma separated list of the invalid
+#. metrics.
+#: includes/Modules/AdSense.php:1023 includes/Modules/Analytics.php:1417
+#: includes/Modules/Analytics_4/Report/Request.php:242
+msgid "Unsupported metrics requested: %s"
+msgstr "معیارهای پشتیبانی نشده درخواست شده: %s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:623
+msgid "Request parameter slugs is not valid."
+msgstr "درخواست slugs پارامتر معتبر نیست."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:552
+#: includes/Core/Modules/REST_Modules_Controller.php:574
+msgid "Module must be active to request data."
+msgstr "برای درخواست داده، ماژول باید فعال باشد."
+
+#. translators: 1: Admin splash URL. 2: Support link URL.
+#: includes/Core/Authentication/Authentication.php:1393
+msgid "<a href=\"%1$s\">Please try again</a>. Retry didn’t work? <a href=\"%2$s\" target=\"_blank\">Get help</a>."
+msgstr "<a href=\"%1$s\">لطفاً دوباره امتحان کنید</a>. تلاش مجدد جواب نداد؟ <a href=\"%2$s\" target=\"_blank\">دریافت راهنمایی</a>."
+
+#: includes/Plugin.php:75
+msgid "The Site Kit by Google plugin does <strong>not yet offer</strong> a network mode, but we&#8217;re actively working on that."
+msgstr "افزونه کیت سایت توسط گوگل <strong>هنوز</strong> حالت شبکه را ارائه نمی دهد، اما ما فعالانه روی آن کار می کنیم."
+
+#. translators: %s: version number
+#: google-site-kit.php:57
+msgid "Site Kit requires WordPress version %s or higher"
+msgstr "کیت سایت به نسخه وردپرس %s یا بالاتر نیاز دارد"
+
+#. translators: %s: version number
+#: google-site-kit.php:49
+msgid "Site Kit requires PHP version %s or higher"
+msgstr "کیت سایت به نسخه PHP %s یا بالاتر نیاز دارد"
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:54
+msgid "Check Site Kit’s dashboard to find out how much traffic your site is getting, your most popular pages, top keywords people use to find your site on Search, and more."
+msgstr "داشبورد کیت سایت را بررسی کنید تا متوجه شوید که سایت شما چقدر ترافیک دریافت می کند، محبوب ترین صفحات شما، کلمات کلیدی برتر مردم برای یافتن سایت شما در جستجو و موارد دیگر."
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:53
+msgid "You now have access to Site Kit"
+msgstr "اکنون به کیت سایت دسترسی دارید"
+
+#. translators: %s: is replaced with the invalid dimension.
+#: includes/Modules/AdSense.php:1078 includes/Modules/Analytics.php:1486
+#: includes/Modules/Analytics_4/Report/Request.php:316
+msgid "Unsupported dimension requested: %s"
+msgstr "بعد پشتیبانی نشده درخواست شده است: %s"
+
+#. translators: %s: is replaced with the invalid metric.
+#: includes/Modules/AdSense.php:1034 includes/Modules/Analytics.php:1428
+#: includes/Modules/Analytics_4/Report/Request.php:253
+msgid "Unsupported metric requested: %s"
+msgstr "معیار پشتیبانی نشده درخواست شده: %s"
+
+#. translators: 1: Support link URL. 2: Get help string.
+#: includes/Core/Authentication/Setup.php:139
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+msgstr "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+
+#. translators: 1: Plugin name. 2: URL change message. 3: Proxy setup URL. 4:
+#. Reconnect string. 5: Proxy support link for the url-has-changed help page.
+#. 6: Help link message.
+#: includes/Core/Authentication/Authentication.php:1154
+msgid "%1$s: %2$s <a href=\"%3$s\">%4$s</a>. <a target=\"_blank\" href=\"%5$s\">%6$s</a>"
+msgstr "%1$s: %2$s <a href=\"%3$s\">%4$s</a>. <a target=\"_blank\" href=\"%5$s\">%6$s</a>"
+
+#. translators: %s: module name
+#: includes/Core/Site_Health/Debug_Data.php:424
+msgid "%s Management"
+msgstr "%s مدیریت"
+
+#: includes/Core/Site_Health/Debug_Data.php:482
+#: dist/assets/js/googlesitekit-entity-dashboard-c29e756e26e771f948ef.js:64
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:62
+msgid "Any admin signed in with Google"
+msgstr "هر سرپرستی که با گوگل وارد شده است"
+
+#: includes/Core/Site_Health/Debug_Data.php:487
+msgid "Owner"
+msgstr "صاحب"
+
+#. translators: 1: Plugin name. 2: Message.
+#. translators: 1: Module name, 2: Error message
+#: includes/Core/Authentication/Authentication.php:1211
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:82
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:360
+msgid "Module access cannot be checked."
+msgstr "دسترسی به ماژول قابل بررسی نیست."
+
+#. translators: 1: Error message or error code. 2: Get help link.
+#: includes/Core/Authentication/Setup.php:182
+msgid "The request to the authentication proxy has failed with an error: %1$s %2$s."
+msgstr "درخواست به پروکسی احراز هویت با یک خطا انجام نشد: %1$s %2$s."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:701
+msgid "Module is not accessible by current user."
+msgstr "ماژول توسط کاربر فعلی قابل دسترسی نیست."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:668
+msgid "Module is not recoverable."
+msgstr "ماژول قابل بازیابی نیست"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:655
+msgid "Module is not shareable."
+msgstr "ماژول قابل اشتراک گذاری نیست."
+
+#. translators: %s: The module name
+#: includes/Core/Admin/Screens.php:389
+msgid "The %s module cannot be set up as it has not been activated yet."
+msgstr "ماژول %s را نمی توان راه اندازی کرد زیرا هنوز فعال نشده است."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:348
+#: includes/Core/Modules/REST_Modules_Controller.php:516
+#: includes/Modules/AdSense.php:474
+msgid "Module is not connected."
+msgstr "ماژول متصل نیست"
+
+#: includes/Modules/AdSense.php:236
+msgid "AdSense site status"
+msgstr "وضعیت سایت ادسنس"
+
+#. translators: %s: Get help link.
+#: includes/Core/Authentication/Setup.php:201
+msgid "The request to the authentication proxy has failed. Please, try again later. %s."
+msgstr "درخواست به پروکسی احراز هویت ناموفق بود. لطفاً بعداً دوباره امتحان کنید. %s"
+
+#: includes/Core/Authentication/Google_Proxy.php:471
+msgid "Failed to retrieve redirect URL."
+msgstr "بازیابی URL تغییر مسیر ناموفق بود."
+
+#: includes/Core/Authentication/Google_Proxy.php:139
+msgid "Missing site_id or site_code parameter for setup URL."
+msgstr "پارامتر site_id یا site_code برای URL راه‌اندازی وجود ندارد."
+
+#: includes/Core/Authentication/Google_Proxy.php:136
+msgid "Missing code parameter for setup URL."
+msgstr "پارامتر کد برای URL راه اندازی وجود ندارد."
+
+#: includes/Core/Authentication/Setup.php:249
+msgid "Verifying site ownership requires a token and verification method."
+msgstr "تأیید مالکیت سایت به رمز و روش تأیید نیاز دارد."
+
+#: includes/Modules/PageSpeed_Insights.php:182
+msgid "https://pagespeed.web.dev"
+msgstr "https://pagespeed.web.dev"
+
+#: includes/Core/Authentication/Setup.php:245
+#: includes/Core/Authentication/Setup.php:302
+msgid "Invalid request."
+msgstr "درخواست نامعتبر"
+
+#. translators: %s: Current URL
+#: includes/Core/Authentication/Authentication.php:1175
+msgid "New URL: %s"
+msgstr "URL جدید: %s"
+
+#. translators: %s: Previous URL
+#: includes/Core/Authentication/Authentication.php:1170
+msgid "Old URL: %s"
+msgstr "URL قدیمی: %s"
+
+#: includes/Core/Authentication/Authentication.php:1389
+msgid "The link you followed has expired."
+msgstr "پیوندی که دنبال کرده‌اید منقضی شده‌است."
+
+#: includes/Modules/Analytics/Web_Tag.php:160
+#: includes/Modules/Analytics_4/Web_Tag.php:159
+msgid "End Google Analytics snippet added by Site Kit"
+msgstr "پایان قطعه گوگل آنالیتیکس اضافه شده توسط سایت کیت"
+
+#: includes/Modules/Analytics/Web_Tag.php:159
+#: includes/Modules/Analytics_4/Web_Tag.php:158
+msgid "Google Analytics snippet added by Site Kit"
+msgstr "قطعه گوگل آنالیتیکس توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Analytics/AMP_Tag.php:154
+#: includes/Modules/Analytics_4/AMP_Tag.php:161
+msgid "End Google Analytics AMP snippet added by Site Kit"
+msgstr "پایان قطعه AMP گوگل آنالیتیکس اضافه شده توسط کیت سایت"
+
+#: includes/Modules/Analytics/AMP_Tag.php:146
+#: includes/Modules/Analytics_4/AMP_Tag.php:153
+msgid "Google Analytics AMP snippet added by Site Kit"
+msgstr "قطعه AMP گوگل آنالیتیکس توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Analytics.php:1181
+msgid "End Google Analytics opt-out snippet added by Site Kit"
+msgstr "پایان قطعه انصراف گوگل آنالیتیکس اضافه شده توسط کیت سایت"
+
+#: includes/Modules/Analytics.php:1172
+msgid "Google Analytics opt-out snippet added by Site Kit"
+msgstr "قطعه انصراف گوگل آنالیتیکس توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:100
+msgid "End Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "پایان قطعه مدیر تگ گوگل (noscript) که توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:96
+msgid "Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "قطعه مدیر تگ گوگل (noscript) توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:79
+msgid "End Google Tag Manager snippet added by Site Kit"
+msgstr "پایان قطعه مدیر تگ گوگل اضافه شده توسط کیت سایت"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:77
+msgid "Google Tag Manager snippet added by Site Kit"
+msgstr "قطعه گوگل تگ منیجر توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:75
+msgid "End Google Tag Manager AMP snippet added by Site Kit"
+msgstr "پایان قطعه AMP گوگل تگ منیجر که توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:66
+msgid "Google Tag Manager AMP snippet added by Site Kit"
+msgstr "قطعه AMP گوگل تگ منیجر توسط کیت سایت اضافه شد"
+
+#: includes/Modules/AdSense/AMP_Tag.php:115
+#: includes/Modules/AdSense/AMP_Tag.php:142
+#: includes/Modules/AdSense/AMP_Tag.php:184
+msgid "Google AdSense AMP snippet added by Site Kit"
+msgstr "قطعه AMP گوگل ادسنس توسط کیت سایت اضافه شد"
+
+#: includes/Modules/AdSense/Web_Tag.php:96
+msgid "End Google AdSense snippet added by Site Kit"
+msgstr "پایان قطعه گوگل ادسنس اضافه شده توسط کیت سایت"
+
+#: includes/Modules/AdSense/Web_Tag.php:94
+msgid "Google AdSense snippet added by Site Kit"
+msgstr "قطعه گوگل ادسنس توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/AdSense/AMP_Tag.php:123
+#: includes/Modules/AdSense/AMP_Tag.php:143
+#: includes/Modules/AdSense/AMP_Tag.php:188
+msgid "End Google AdSense AMP snippet added by Site Kit"
+msgstr "پایان قطعه AMP گوگل ادسنس که توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Analytics.php:1168
+msgid "Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "قطعه انصراف AMP گوگل آنالیتیکس توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Analytics.php:1170
+msgid "End Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "پایان قطعه انصراف AMP گوگل آنالیتیکس که توسط کیت سایت اضافه شده است"
+
+#: includes/Modules/Analytics_4.php:440
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 web data stream for this site on your behalf."
+msgstr "برای ایجاد یک جریان داده وب جدید آنالیز 4 برای این سایت از طرف شما باید به کیت سایت اجازه دهید."
+
+#: includes/Core/Site_Health/Debug_Data.php:321
+msgid "Verified through meta tag"
+msgstr "از طریق متا تگ تایید شد"
+
+#: includes/Core/Site_Health/Debug_Data.php:328
+msgid "Verified outside of Site Kit"
+msgstr "خارج از کیت سایت تأیید شده است"
+
+#: includes/Core/Site_Health/Debug_Data.php:313
+msgid "Verified through file"
+msgstr "تایید از طریق فایل"
+
+#: includes/Core/Site_Health/Debug_Data.php:296
+msgid "Verification Status"
+msgstr "وضعیت تأیید"
+
+#: includes/Core/Site_Health/Debug_Data.php:305
+msgid "Not verified"
+msgstr "تایید نشده است"
+
+#. translators: %s: module name
+#: includes/Core/Modules/Module.php:427
+msgid "Site Kit can’t access the relevant data from %s because you haven’t granted all permissions requested during setup."
+msgstr "کیت سایت نمی‌تواند به داده‌های مربوطه از %s دسترسی داشته باشد زیرا شما به همه مجوزهای درخواستی در حین راه‌اندازی اعطا نکرده‌اید."
+
+#. translators: %s: List of invalid parameters.
+#: includes/Modules/Analytics_4.php:1125
+msgid "Invalid parameter(s): %s"
+msgstr "پارامتر(های) نامعتبر: %s"
+
+#: includes/Modules/Analytics_4.php:459
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 custom dimension on your behalf."
+msgstr "برای ایجاد یک بعد سفارشی جدید آنالیز 4 از طرف شما، باید به کیت سایت اجازه دهید."
+
+#: includes/Modules/Analytics_4.php:435
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 property on your behalf."
+msgstr "برای ایجاد یک ویژگی جدید آنالیز 4 از طرف شما باید به کیت سایت اجازه دهید."
+
+#: includes/Core/Admin/Available_Tools.php:50
+msgid "Resetting will disconnect all users and remove all Site Kit settings and data within WordPress. You and any other users who wish to use Site Kit will need to reconnect to restore access."
+msgstr "بازنشانی همه کاربران را قطع می‌کند و تمام تنظیمات و داده‌های کیت سایت در وردپرس را حذف می‌کند. شما و سایر کاربرانی که مایل به استفاده از کیت سایت هستند، برای بازگرداندن دسترسی، باید دوباره وصل شوید."
+
+#: includes/Modules/Analytics_4.php:370
+msgid "Analytics 4 snippet placed"
+msgstr "تجزیه و تحلیل 4 قطعه قرار گرفت"
+
+#: includes/Modules/Analytics_4.php:365
+msgid "Analytics 4 measurement ID"
+msgstr "شناسه اندازه گیری آنالیز 4"
+
+#: includes/Modules/Analytics_4.php:360
+msgid "Analytics 4 web data stream ID"
+msgstr "شناسه جریان داده وب آنالیز 4"
+
+#: includes/Modules/Analytics_4.php:355
+msgid "Analytics 4 property ID"
+msgstr "شناسه دارایی آنالیتیکس 4"
+
+#: includes/Core/Authentication/Google_Proxy.php:241
+#: includes/Core/Authentication/Google_Proxy.php:507
+msgid "OAuth credentials haven't been found."
+msgstr "اعتبارنامه OAuth پیدا نشد."
+
+#: includes/Core/Authentication/Google_Proxy.php:286
+msgid "Failed to parse response."
+msgstr "تجزیه پاسخ ناموفق بود."
+
+#: includes/Modules/AdSense.php:245
+msgid "Web Stories Ad Unit ID"
+msgstr "شناسه واحد آگهی داستان های وب"
+
+#: includes/Core/Site_Health/Debug_Data.php:577
+msgid "Features"
+msgstr "قابلیت‌ها"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:51
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:50
+msgid "Rate Site Kit"
+msgstr "امتیاز سایت کیت"
+
+#: includes/Core/Modules/Datapoint.php:122
+msgid "You’ll need to grant Site Kit permission to do this."
+msgstr "برای انجام این کار باید به کیت سایت اجازه بدهید."
+
+#: includes/Core/Site_Health/Debug_Data.php:530
+msgid "User Capabilities"
+msgstr "قابلیت های کاربر"
+
+#: includes/Core/User_Input/REST_User_Input_Controller.php:145
+msgid "Missing settings data."
+msgstr "داده تنظیمات موجود نیست."
+
+#: includes/Core/Authentication/Authentication.php:1397
+msgid "Something went wrong."
+msgstr "مشکلی وجود دارد."
+
+#: includes/Core/Authentication/Authentication.php:1336
+msgid "You have insufficient permissions to manage Site Kit permissions."
+msgstr "شما مجوزهای کافی برای مدیریت مجوزهای کیت سایت ندارید."
+
+#: includes/Core/Authentication/Authentication.php:1340
+#: includes/Core/Authentication/Setup.php:161
+msgid "Site Kit is not configured to use the authentication proxy."
+msgstr "کیت سایت برای استفاده از پروکسی احراز هویت پیکربندی نشده است."
+
+#: includes/Core/Authentication/Setup.php:157
+msgid "You have insufficient permissions to connect Site Kit."
+msgstr "شما مجوزهای کافی برای اتصال کیت سایت ندارید."
+
+#: includes/Core/Authentication/Authentication.php:1156
+#: dist/assets/js/googlesitekit-splash-ecedc602317e774192e2.js:36
+msgid "Looks like the URL of your site has changed. In order to continue using Site Kit, you’ll need to reconnect, so that your plugin settings are updated with the new URL."
+msgstr "به نظر می رسد آدرس سایت شما تغییر کرده است. برای ادامه استفاده از کیت سایت، باید دوباره متصل شوید تا تنظیمات افزونه شما با URL جدید به روز شود."
+
+#: includes/Modules/Analytics.php:710
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:48
+#: dist/assets/js/googlesitekit-modules-analytics-4-8b33c94e33392274213c.js:26
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:38
+#: dist/assets/js/googlesitekit-wp-dashboard-751c647db561941670ba.js:27
+msgctxt "default Analytics view name"
+msgid "All Web Site Data"
+msgstr "تمام داده های وب سایت"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:168
+msgid "Owner ID."
+msgstr "شناسه مالک."
+
+#: includes/Core/Site_Health/Debug_Data.php:352
+msgid "Connected user count"
+msgstr "تعداد کاربران متصل"
+
+#: includes/Core/Util/Entity_Factory.php:289
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: includes/Core/Util/Entity_Factory.php:286
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصاویر"
+
+#: includes/Core/Util/Entity_Factory.php:283
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری ها"
+
+#: includes/Core/Util/Entity_Factory.php:270
+msgctxt "category archive title prefix"
+msgid "Category:"
+msgstr "دسته‌بندی:"
+
+#: includes/Core/Util/Entity_Factory.php:295
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "پیوندها"
+
+#: includes/Core/Util/Entity_Factory.php:298
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: includes/Core/Util/Entity_Factory.php:301
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صدا"
+
+#: includes/Core/Util/Entity_Factory.php:304
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "گفتگوها"
+
+#. translators: %s: Taxonomy singular name.
+#: includes/Core/Util/Entity_Factory.php:313
+msgctxt "taxonomy term archive title prefix"
+msgid "%s:"
+msgstr "%s:"
+
+#: includes/Core/Util/Entity_Factory.php:341
+msgctxt "author archive title prefix"
+msgid "Author:"
+msgstr "نویسنده:"
+
+#: includes/Core/Util/Entity_Factory.php:366
+msgctxt "post type archive title prefix"
+msgid "Archives:"
+msgstr "بایگانی‌ها:"
+
+#: includes/Core/Util/Entity_Factory.php:394
+msgctxt "date archive title prefix"
+msgid "Year:"
+msgstr "سال:"
+
+#: includes/Core/Util/Entity_Factory.php:395
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/Core/Util/Entity_Factory.php:400
+msgctxt "date archive title prefix"
+msgid "Month:"
+msgstr "ماه:"
+
+#: includes/Core/Util/Entity_Factory.php:401
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/Core/Util/Entity_Factory.php:407
+msgctxt "date archive title prefix"
+msgid "Day:"
+msgstr "روز:"
+
+#: includes/Core/Util/Entity_Factory.php:408
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#. translators: 1: Title prefix. 2: Title.
+#: includes/Core/Util/Entity_Factory.php:498
+msgctxt "archive title"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:301
+msgid "Looks like your site is not allowed access to Google account data and can’t display stats in the dashboard."
+msgstr "به نظر می‌رسد سایت شما اجازه دسترسی به داده‌های حساب گوگل را ندارد و نمی‌تواند آمار را در داشبورد نمایش دهد."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:305
+msgid "Looks like the verification token for your site is missing."
+msgstr "به نظر می رسد رمز تأیید برای سایت شما وجود ندارد."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:303
+msgid "Looks like there is no Search Console property for your site."
+msgstr "به نظر می‌رسد هیچ خاصیت کنسول جستجو برای سایت شما وجود ندارد."
+
+#: includes/Modules/Analytics.php:244
+msgid "Analytics view ID"
+msgstr "شناسه نمای آنالیز"
+
+#: includes/Modules/Tag_Manager.php:246
+msgid "Additional permissions are required to create a new Tag Manager container on your behalf."
+msgstr "برای ایجاد یک ظرف مدیریت برچسب جدید از طرف شما، مجوزهای بیشتری لازم است."
+
+#: includes/Modules/Analytics.php:442
+msgid "Analytics provisioning requires connecting via the Site Kit Service."
+msgstr "تهیه تجزیه و تحلیل نیاز به اتصال از طریق سرویس کیت سایت دارد."
+
+#: includes/Modules/Analytics.php:366
+msgid "You’ll need to grant Site Kit permission to create a new Analytics view on your behalf."
+msgstr "برای ایجاد نمای جدید آنالیز از طرف شما باید به سایت کیت اجازه دهید."
+
+#: includes/Modules/Analytics.php:371
+msgid "You’ll need to grant Site Kit permission to create a new Analytics property on your behalf."
+msgstr "برای ایجاد ویژگی جدید آنالیز از طرف شما باید به کیت سایت اجازه دهید."
+
+#: includes/Modules/Analytics.php:361 includes/Modules/Analytics_4.php:424
+msgid "You’ll need to grant Site Kit permission to create a new Analytics account on your behalf."
+msgstr "برای ایجاد یک حساب آنالیز جدید از طرف شما باید به کیت سایت اجازه بدهید."
+
+#: includes/Core/Modules/Module.php:374
+msgid "Invalid datapoint request."
+msgstr "درخواست نقطه داده نامعتبر است."
+
+#: includes/Core/Authentication/Authentication.php:739
+#: includes/Core/Authentication/Authentication.php:759
+#: includes/Core/Authentication/Authentication.php:788
+msgid "You don’t have permissions to authenticate with Site Kit."
+msgstr "شما مجوز احراز هویت با سایت کیت را ندارید."
+
+#: includes/Core/Authentication/Setup.php:241
+#: includes/Core/Authentication/Setup.php:298 includes/Core/Util/Reset.php:266
+msgid "You don’t have permissions to set up Site Kit."
+msgstr "شما مجوز راه اندازی کیت سایت را ندارید."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:287
+msgid "Setup was interrupted because you did not grant the necessary permissions."
+msgstr "راه اندازی قطع شد زیرا مجوزهای لازم را ندادید."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:484
+msgid "Settings to set."
+msgstr "تنظیمات برای تنظیم"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:437
+#: includes/Core/Modules/REST_Modules_Controller.php:470
+msgid "Module does not support settings."
+msgstr "ماژول تنظیمات را پشتیبانی نمی کند."
+
+#: includes/Core/Site_Health/Debug_Data.php:250
+msgid "Connected through OAuth client credentials"
+msgstr "از طریق اعتبار مشتری OAuth متصل شد"
+
+#: includes/Modules/Tag_Manager.php:198
+msgid "Tag Manager snippet placed"
+msgstr "قطعه تگ مدیر قرار داده شد"
+
+#: includes/Modules/Tag_Manager.php:193
+msgid "Tag Manager AMP container ID"
+msgstr "شناسه ظرف AMP مدیر برچسب"
+
+#: includes/Modules/Tag_Manager.php:188
+msgid "Tag Manager container ID"
+msgstr "شناسه ظرف مدیر برچسب"
+
+#: includes/Modules/Tag_Manager.php:183
+msgid "Tag Manager account ID"
+msgstr "شناسه حساب مدیر تگ"
+
+#: includes/Modules/Analytics.php:249
+msgid "Analytics snippet placed"
+msgstr "قطعه تجزیه و تحلیل قرار گرفت"
+
+#: includes/Core/Site_Health/Debug_Data.php:175
+msgid "WordPress Version"
+msgstr "نسخه وردپرس"
+
+#: includes/Core/Site_Health/Debug_Data.php:171
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+#: includes/Core/Site_Health/Debug_Data.php:167
+msgid "Version"
+msgstr "نسخه"
+
+#: includes/Core/Site_Health/Debug_Data.php:280
+msgid "User Status"
+msgstr "وضعیت کاربر"
+
+#: includes/Core/Site_Health/Debug_Data.php:263
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:78
+msgid "Site Status"
+msgstr "وضعیت سایت"
+
+#: includes/Core/Site_Health/Debug_Data.php:368
+msgid "Active Modules"
+msgstr "ماژول‌های فعال"
+
+#: includes/Core/Site_Health/Debug_Data.php:202
+#: includes/Core/Site_Health/Debug_Data.php:445
+#: includes/Modules/Analytics_4.php:379
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:78
+#: dist/assets/js/googlesitekit-modules-analytics-4-8b33c94e33392274213c.js:50
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:74
+msgid "None"
+msgstr "هیچکدام"
+
+#: includes/Core/Util/Requires_Javascript_Trait.php:36
+msgid "The Site Kit by Google plugin requires JavaScript to be enabled in your browser."
+msgstr "افزونه سایت کیت ساخته شده توسط گوگل باید جاوا اسکریپت را در مرورگر شما فعال کند."
+
+#: includes/Core/Site_Health/Debug_Data.php:511
+msgid "Required scopes"
+msgstr "دامنه مورد نیاز"
+
+#: includes/Core/Site_Health/Debug_Data.php:251
+msgid "Not connected"
+msgstr "متصل نیست"
+
+#: includes/Core/Site_Health/Debug_Data.php:282
+msgid "Authenticated"
+msgstr "تایید شده"
+
+#: includes/Modules/Search_Console.php:164
+msgid "Search Console property"
+msgstr "ویژگی سرچ کنسول"
+
+#: includes/Modules/Analytics.php:234
+msgid "Analytics account ID"
+msgstr "شناسه حساب کاربری آنالیتیکس"
+
+#: includes/Modules/Analytics.php:239
+msgid "Analytics property ID"
+msgstr "شناسه ویژگی آنالیتیکس"
+
+#: includes/Core/Site_Health/Debug_Data.php:283
+msgid "Not authenticated"
+msgstr "تایید نشده است"
+
+#: includes/Core/Site_Health/Debug_Data.php:249
+msgid "Connected through site credentials"
+msgstr "وصل شدن به سایت از طریق اعتبارنامه"
+
+#: includes/Core/Site_Health/Debug_Data.php:228
+msgid "Secondary"
+msgstr "فرعی"
+
+#: includes/Core/Site_Health/Debug_Data.php:227
+msgid "Primary"
+msgstr "اصلی"
+
+#: includes/Core/Site_Health/Debug_Data.php:179
+msgid "Reference Site URL"
+msgstr "آدرس سایت مرجع"
+
+#: includes/Modules/AdSense.php:240
+msgid "AdSense snippet placed"
+msgstr "قطعه AdSense قرار گرفت"
+
+#: includes/Modules/AdSense.php:232
+msgid "AdSense account status"
+msgstr "وضعیت حساب کاربری AdSense"
+
+#: includes/Modules/AdSense.php:227
+msgid "AdSense client ID"
+msgstr "شناسه مشتری AdSens"
+
+#: includes/Modules/AdSense.php:222
+msgid "AdSense account ID"
+msgstr "شناسه حساب کاربری AdSense"
+
+#: includes/Core/Site_Health/Debug_Data.php:232
+msgid "AMP Mode"
+msgstr "حالت AMP"
+
+#. translators: used between list items, there is a space after the comma.
+#. translators: used between list items, there is a space after the comma
+#: includes/Core/Site_Health/Debug_Data.php:371
+#: includes/Core/Site_Health/Debug_Data.php:392
+#: includes/Core/Site_Health/Debug_Data.php:462
+#: includes/Modules/AdSense.php:1029 includes/Modules/AdSense.php:1073
+#: includes/Modules/Analytics.php:1423 includes/Modules/Analytics.php:1481
+#: includes/Modules/Analytics_4.php:382
+#: includes/Modules/Analytics_4/Report/Request.php:183
+#: includes/Modules/Analytics_4/Report/Request.php:248
+#: includes/Modules/Analytics_4/Report/Request.php:311
+#: dist/assets/js/googlesitekit-activation-fb92be7a51c2040b7826.js:16
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-83e4c182453a90c744c7.js:50
+#: dist/assets/js/googlesitekit-adminbar-64314575367ff8948bf9.js:40
+#: dist/assets/js/googlesitekit-api-d922ee2cbcdece6e1e7d.js:14
+#: dist/assets/js/googlesitekit-datastore-forms-59aba366cb4e62d3f198.js:14
+#: dist/assets/js/googlesitekit-datastore-site-7eb34c93d53a1b1503dd.js:14
+#: dist/assets/js/googlesitekit-datastore-ui-86bcc7251b5b5c14f408.js:14
+#: dist/assets/js/googlesitekit-datastore-user-57646daf3f252ff1bc9b.js:14
+#: dist/assets/js/googlesitekit-entity-dashboard-c29e756e26e771f948ef.js:18
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:18
+#: dist/assets/js/googlesitekit-modules-77633ba84e0c8bee5d63.js:14
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:18
+#: dist/assets/js/googlesitekit-modules-analytics-4-8b33c94e33392274213c.js:18
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:18
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-8e98f8164475deb2926c.js:14
+#: dist/assets/js/googlesitekit-modules-search-console-cd8313f0e4ded5b05827.js:44
+#: dist/assets/js/googlesitekit-modules-tagmanager-9cf6cdb322b02c03ae73.js:34
+#: dist/assets/js/googlesitekit-settings-ca23c33d61cd8075704f.js:32
+#: dist/assets/js/googlesitekit-splash-ecedc602317e774192e2.js:34
+#: dist/assets/js/googlesitekit-user-input-09f6c941fc11b230a6a1.js:32
+#: dist/assets/js/googlesitekit-widgets-5a9534a609dbe85fff81.js:38
+#: dist/assets/js/googlesitekit-wp-dashboard-751c647db561941670ba.js:50
+msgid ", "
+msgstr "، "
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:307
+msgid "Unable to authenticate Site Kit, as no client credentials exist."
+msgstr "احراز هویت سایت کیت ممکن نیست، زیرا اعتبار مشتری وجود ندارد."
+
+#: includes/Core/Admin/Dashboard.php:116
+msgid "Site Kit Summary"
+msgstr "خلاصه سایت کیت"
+
+#: includes/Core/Notifications/Notification.php:69
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:62
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:88
+msgid "Dismiss"
+msgstr "رد کردن"
+
+#: includes/Modules/Tag_Manager.php:473
+#: dist/assets/js/googlesitekit-modules-tagmanager-9cf6cdb322b02c03ae73.js:36
+msgctxt "Service name"
+msgid "Tag Manager"
+msgstr "تگ منیجر"
+
+#: includes/Core/Admin/Available_Tools.php:47
+#: includes/Core/Admin/Available_Tools.php:61
+#: dist/assets/js/googlesitekit-settings-ca23c33d61cd8075704f.js:19
+#: dist/assets/js/googlesitekit-splash-ecedc602317e774192e2.js:17
+msgid "Reset Site Kit"
+msgstr "تنظیم دوباره سایت کیت"
+
+#: includes/Modules/Search_Console.php:502
+#: dist/assets/js/googlesitekit-modules-search-console-cd8313f0e4ded5b05827.js:46
+#: dist/assets/js/googlesitekit-splash-ecedc602317e774192e2.js:23
+msgctxt "Service name"
+msgid "Search Console"
+msgstr "کنسول جستجو"
+
+#: includes/Modules/Analytics.php:1023
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:78
+#: dist/assets/js/googlesitekit-modules-analytics-4-8b33c94e33392274213c.js:46
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:54
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:78
+#: dist/assets/js/googlesitekit-modules-analytics-bfc58f1b7506f082268a.js:88
+#: dist/assets/js/googlesitekit-modules-search-console-cd8313f0e4ded5b05827.js:46
+msgctxt "Service name"
+msgid "Analytics"
+msgstr "آنالیتیکس"
+
+#: includes/Modules/PageSpeed_Insights.php:179
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-8e98f8164475deb2926c.js:24
+msgctxt "Service name"
+msgid "PageSpeed Insights"
+msgstr "بررسی سرعت سایت"
+
+#: includes/Modules/AdSense.php:740
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-83e4c182453a90c744c7.js:31
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-83e4c182453a90c744c7.js:37
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:88
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:62
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:68
+#: dist/assets/js/googlesitekit-modules-adsense-229f7a430f8c5fa7c24a.js:74
+msgctxt "Service name"
+msgid "AdSense"
+msgstr "ادسنس"
+
+#. translators: %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:280
+msgid "Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr "ماژول را نمی توان غیرفعال کرد زیرا غیرفعال کردن %s وابسته انجام نشد."
+
+#. translators: %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:267
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr "ماژول را نمی توان به دلیل وابستگی غیرفعال %s فعال کرد."
+
+#. translators: %s: service identifier
+#: includes/Core/Modules/Module.php:541
+msgid "Google service identified by %s does not exist."
+msgstr "سرویس گوگل شناسایی شده توسط %s وجود ندارد."
+
+#. translators: %s: module slug
+#: includes/Core/Modules/Modules.php:559 includes/Core/Modules/Modules.php:597
+#: includes/Core/Modules/Modules.php:618
+msgid "Invalid module slug %s."
+msgstr "Slug ماژول نامعتبر %s."
+
+#: includes/Modules/Tag_Manager.php:474
+msgid "Tag Manager creates an easy to manage way to create tags on your site without updating code"
+msgstr "تگ منجر یک روش آسان برای مدیریت ایجاد برچسب در سایت شما بدون به روز رسانی کد ایجاد می کند"
+
+#: includes/Modules/Search_Console.php:262
+msgid "Error adding the site to Search Console."
+msgstr "بروز مشکل در حین افزودن سایت به کنسول جستجوی گوگل."
+
+#. Author of the plugin
+msgid "Google"
+msgstr "گوگل"
+
+#. Plugin URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr "https://sitekit.withgoogle.com"
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr "https://opensource.google.com"
+
+#: google-site-kit.php:50 google-site-kit.php:58
+msgid "Error Activating"
+msgstr "مشکل در فعال سازی"
+
+#. translators: %s: Missing parameter name
+#: includes/Core/Dismissals/REST_Dismissals_Controller.php:109
+#: includes/Core/Feature_Tours/REST_Feature_Tours_Controller.php:108
+#: includes/Core/Notifications/Notifications.php:285
+#: includes/Core/REST_API/Exception/Missing_Required_Param_Exception.php:46
+#: includes/Core/User_Surveys/REST_User_Surveys_Controller.php:228
+#: includes/Modules/AdSense.php:331 includes/Modules/AdSense.php:336
+#: includes/Modules/AdSense.php:344 includes/Modules/AdSense.php:353
+#: includes/Modules/AdSense.php:465 includes/Modules/Analytics.php:426
+#: includes/Modules/Analytics.php:430 includes/Modules/Analytics.php:434
+#: includes/Modules/Analytics.php:438 includes/Modules/Analytics.php:494
+#: includes/Modules/Analytics.php:502 includes/Modules/Analytics.php:513
+#: includes/Modules/Analytics.php:524 includes/Modules/Analytics.php:696
+#: includes/Modules/Analytics.php:704 includes/Modules/Analytics.php:721
+#: includes/Modules/Analytics_4.php:804 includes/Modules/Analytics_4.php:820
+#: includes/Modules/Analytics_4.php:835 includes/Modules/Analytics_4.php:851
+#: includes/Modules/Analytics_4.php:862 includes/Modules/Analytics_4.php:891
+#: includes/Modules/Analytics_4.php:900 includes/Modules/Analytics_4.php:919
+#: includes/Modules/Analytics_4.php:928 includes/Modules/Analytics_4.php:937
+#: includes/Modules/Analytics_4.php:991 includes/Modules/Analytics_4.php:1000
+#: includes/Modules/Analytics_4.php:1077 includes/Modules/Analytics_4.php:1099
+#: includes/Modules/Analytics_4.php:1116 includes/Modules/Analytics_4.php:1151
+#: includes/Modules/Analytics_4.php:1162 includes/Modules/Analytics_4.php:1170
+#: includes/Modules/Analytics_4.php:1183
+#: includes/Modules/PageSpeed_Insights.php:98
+#: includes/Modules/Search_Console.php:234
+#: includes/Modules/Site_Verification.php:173
+#: includes/Modules/Tag_Manager.php:271 includes/Modules/Tag_Manager.php:279
+#: includes/Modules/Tag_Manager.php:322 includes/Modules/Tag_Manager.php:330
+msgid "Request parameter is empty: %s."
+msgstr "پارامتر درخواستی خالی است: %s."
+
+#: includes/Core/Authentication/Authentication.php:1220
+msgid "Click here"
+msgstr "اینجا را کلیک کنید"
+
+#. translators: %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:316
+msgid "Unknown Error (code: %s)."
+msgstr "خطای ناشناخته (کد: %s)."
+
+#: includes/Core/Site_Health/Debug_Data.php:233
+#: includes/Modules/AdSense.php:241 includes/Modules/AdSense.php:262
+#: includes/Modules/AdSense.php:270 includes/Modules/Analytics.php:250
+#: includes/Modules/Analytics_4.php:371 includes/Modules/Tag_Manager.php:199
+msgid "No"
+msgstr "خیر"
+
+#: includes/Modules/AdSense.php:241 includes/Modules/AdSense.php:262
+#: includes/Modules/AdSense.php:270 includes/Modules/Analytics.php:250
+#: includes/Modules/Analytics_4.php:371 includes/Modules/Tag_Manager.php:199
+msgid "Yes"
+msgstr "بله"
+
+#: includes/Core/Admin/Plugin_Action_Links.php:61
+#: includes/Core/Admin/Screens.php:459
+#: dist/assets/js/googlesitekit-settings-ca23c33d61cd8075704f.js:32
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/Core/Admin/Screens.php:361 includes/Core/Admin/Screens.php:407
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: includes/Modules/Analytics.php:1026 includes/Modules/Analytics_4.php:1355
+msgid "https://analytics.google.com/analytics/web"
+msgstr "https://analytics.google.com/analytics/web"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:291
+msgid "Internal error that the Google login redirect failed."
+msgstr "خطای داخلی که تغییر مسیر ورود به سیستم گوگل انجام نشد."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:149
+msgid "List of slugs of other modules depending on the module."
+msgstr "لیست شاخه های ماژول های دیگر بسته به ماژول."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:141
+msgid "List of slugs of other modules that the module depends on."
+msgstr "لیست شاخه های ماژول های دیگر که ماژول به آن بستگی دارد."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:136
+msgid "Whether the module setup has been completed."
+msgstr "آیا تنظیم ماژول به پایان رسیده است."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:132
+msgid "Whether the module is active."
+msgstr "آیا ماژول فعال است."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:127
+msgid "Whether the module is internal, thus without any UI."
+msgstr "این که آیا ماژول داخلی است ، بنابراین بدون هیچ رابط کاربری داخلی."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:121
+msgid "The module homepage."
+msgstr "صفحه اصلی ماژول."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:116
+msgid "Description of the module."
+msgstr "توضیحات ماژول."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:111
+msgid "Name of the module."
+msgstr "نام ماژول."
+
+#: includes/Core/Util/REST_Entity_Search_Controller.php:133
+msgid "Text content to search for."
+msgstr "محتوای متن برای جستجو."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:605
+msgid "Module data point to address."
+msgstr "داده های ماژول به آدرس اشاره می کنند."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:588
+msgid "Data to set."
+msgstr "داده ها برای تنظیم."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:106
+#: includes/Core/Modules/REST_Modules_Controller.php:322
+#: includes/Core/Modules/REST_Modules_Controller.php:379
+#: includes/Core/Modules/REST_Modules_Controller.php:417
+#: includes/Core/Modules/REST_Modules_Controller.php:496
+#: includes/Core/Modules/REST_Modules_Controller.php:532
+#: includes/Core/Modules/REST_Modules_Controller.php:600
+msgid "Identifier for the module."
+msgstr "شناسه برای ماژول."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:285
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr "هنگام غیرفعال کردن ماژول خطای داخلی روی داد."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:271
+msgid "An internal error occurred while trying to activate the module."
+msgstr "هنگام فعال کردن ماژول خطای داخلی روی داد."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:344
+#: includes/Core/Modules/REST_Modules_Controller.php:395
+#: includes/Core/Modules/REST_Modules_Controller.php:433
+#: includes/Core/Modules/REST_Modules_Controller.php:466
+#: includes/Core/Modules/REST_Modules_Controller.php:512
+#: includes/Core/Modules/REST_Modules_Controller.php:548
+#: includes/Core/Modules/REST_Modules_Controller.php:570
+msgid "Invalid module slug."
+msgstr "مثل حلزون حرکت ماژول نامعتبر است."
+
+#: includes/Modules/Analytics.php:481
+msgid "Analytics module needs to be configured."
+msgstr "ماژول تجزیه و تحلیل باید پیکربندی شود."
+
+#: includes/Modules/Site_Verification.php:359
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr "https://www.google.com/webmasters/verification/home"
+
+#: includes/Modules/Site_Verification.php:180
+msgid "Unknown user."
+msgstr "کاربر ناشناس."
+
+#: includes/Modules/AdSense.php:741
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr "با قرار دادن تبلیغات در وب سایت خود درآمد کسب کنید. این برنامه رایگان و آسان است."
+
+#: includes/Modules/AdSense.php:633
+msgid "Invalid date range."
+msgstr "محدوده نامعتبر."
+
+#: includes/Modules/AdSense.php:392
+msgid "Go to AdSense"
+msgstr "به AdSense بروید"
+
+#: includes/Modules/AdSense.php:668
+msgid "AdSense account ID not set."
+msgstr "شناسه حساب AdSense تنظیم نشده است."
+
+#: includes/Modules/Tag_Manager.php:476
+msgid "https://tagmanager.google.com/"
+msgstr "https://tagmanager.google.com/"
+
+#: includes/Modules/Search_Console.php:505
+msgid "https://search.google.com/search-console"
+msgstr "https://search.google.com/search-console"
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr "آدرس داده نامعتبر است."
+
+#. Description of the plugin
+msgid "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+msgstr "سایت کیت یک راه حل یکجانبه برای کاربران وردپرس است تا تمام سرویس های گوگل که برای سایت ها توسعه داده شده است را در یک داشبورد در اختیار شما قرار دهد."
+
+#. Plugin Name of the plugin
+#: includes/Core/Admin/Screen.php:87
+#: includes/Core/Authentication/Authentication.php:1155
+#: includes/Core/Authentication/Authentication.php:1212
+#: includes/Core/Site_Health/Debug_Data.php:120
+msgid "Site Kit by Google"
+msgstr "سایت کیت رسمی گوگل"
+
+#: includes/Core/Authentication/Authentication.php:1213
+msgid "You need to reauthenticate your Google account."
+msgstr "باید مجدداً حساب کاربری گوگل خود را تأیید کنید."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:313
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک فرمت که توسط ما پشتیبانی ما نمی‌شود."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:311
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک کاربر شناخته نشده."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:297
+msgid "Unable to receive access token because of an invalid authorization code or refresh token."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک کد احتراز هویت نامعتبر یا تازه کردن توکن"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:293
+msgid "Unable to receive access token because of an invalid client."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک کاربر نامعتبر."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:299
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک درخواست OAuth نامعتبر."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:289
+msgid "Unable to receive access token because of an unknown error."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل یک خطای ناشناخته."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:295
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr "عدم توانایی در دریافت دسترسی به توکن به دیل خالی بودن کد اعتبارسنجی."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:309
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr "عدم توانایی در تازه سازی دسترسی به توکن، هیچ توکنی تازه سازی نشده"
+
+#: includes/Core/Modules/Module.php:529 includes/Core/Modules/Module.php:533
+msgid "Google services not set up correctly."
+msgstr "سرویس های گوگل درست تنظیم نشده اند."
+
+#: includes/Core/Modules/Module.php:475
+msgid "Google client not set up correctly."
+msgstr "مشتری گوگل درست تنظیم نشده است."
+
+#: includes/Modules/Analytics.php:1024 includes/Modules/Analytics_4.php:1353
+msgid "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "درک عمیقی از مشتریان خود کسب کنید. گوگل آنالیتیکز ابزارهای رایگان موردنیاز برای تجزیه و تحلیل داده ها در یک مکان را در اختیار شما قرار می دهد."
+
+#: includes/Modules/Site_Verification.php:357
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr "تأیید صحت سایت گوگل به شما امکان می دهد مالکیت سایت خود را مدیریت کنید."
+
+#: includes/Modules/Search_Console.php:503
+msgid "Google Search Console and helps you understand how Google views your site and optimize its performance in search results."
+msgstr "کنسول جستجوی گوگل و به شما کمک می کند تا نحوه بازدید گوگل از سایت شما و بهینه سازی عملکرد آن در نتایج جستجو به شما کمک کند."
+
+#: includes/Core/Admin/Screen.php:129
+#: includes/Core/Site_Health/Tag_Placement.php:106
+#: dist/assets/js/googlesitekit-main-dashboard-bd15f8f31b369eb65be7.js:82
+msgid "Site Kit"
+msgstr "کیت سایت"
+
+#. translators: 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/PageSpeed_Insights.php:112
+#: includes/Modules/Tag_Manager.php:291
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr "پارامتر درخواست %1$s یکی از %2$s نیست"
+
+#: includes/Modules/PageSpeed_Insights.php:180
+msgid "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA"
+msgstr "Google PageSpeed ​​Insights معیارهایی در مورد عملکرد، دسترسی، SEO و PWA به شما می دهد"

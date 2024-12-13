@@ -1,0 +1,49 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Ignore all plugins and themes, except custom ones
+/wp-content/plugins/*
+!/wp-content/plugins/your-custom-plugin/
+
+/wp-content/themes/*
+!/wp-content/themes/your-custom-theme/
+
+# Ignore uploads folder
+/wp-content/uploads/
+
+# Ignore common backup and cache files
+*.sql
+*.sql.gz
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.backup
+/wp-content/cache/
+/wp-content/backup-*
+
+# Ignore environment-specific files
+.htaccess
+web.config
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+node_modules/
+vendor/
+composer.lock
+yarn.lock
+package-lock.json
+
+# Ignore temporary files
+*.tmp
+*.temp
+Thumbs.db
+desktop.ini
+
+# Ignore WordPress config files (unless versioning wp-config.php is necessary)
+/wp-config.php

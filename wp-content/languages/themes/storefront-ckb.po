@@ -1,0 +1,831 @@
+# Translation of Themes - Storefront in Kurdish (Sorani)
+# This file is distributed under the same license as the Themes - Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-12 18:25:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ku_IQ\n"
+"Project-Id-Version: Themes - Storefront\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "ستۆرفەرنت کامڵترین ڕووکارە بۆ پرۆژەی داهاتووی تۆ لە ووکۆمێرس. ئەم ڕووکارە لەلایەن پەرەپێدەرانی سەرەکی ووکۆمێرس-ەوە دیزاینکراوە و پەرەیپێدراوە، لە مواسەفاتەکانی تێکهەڵكیشکردنێتی لەگەڵ ووکۆمێرسدا لەسەر خواست، هاوکات لەگەڵ زۆرێک لە پڵەگینەکانی کە بە رووی کڕیاراندا بەکاردێن. هەمەچەشنەیەک لە کڵێشە و بژاردەی ڕەنگی هەیە تا فرۆشگاکەت بە دڵی خۆت بێت، چەندین ناوچەی ویجێت، دیزاینێکی خۆگونجێن و چەندینی دکەش. پەرەپێدەران عاشق دەبن بە بنکەی کۆدەکەی کە بنکەیەکی خۆشکار و بەهێزە کە وادەکات دەستکاریکردن و چاککردن تێیدا خۆشی بەخش بێت. بۆ ڕووکارێکدا دەگەڕێیت بۆ ووکۆمێرس؟ چیتر ەمەگەڕێ."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Storefront"
+msgstr "ستۆرفرەنت"
+
+#. translators: conjunction of two alternative options user can choose (in
+#. missing plugin admin notice). Example: "Activate WooCommerce or learn more"
+#: inc/admin/class-storefront-plugin-install.php:116
+msgid "learn more"
+msgstr "زانیاری زیاتر"
+
+#: inc/class-storefront.php:222
+msgid "Huge"
+msgstr "زۆر گەورە"
+
+#: inc/class-storefront.php:217
+msgid "Large"
+msgstr " گه‌وره‌"
+
+#: inc/class-storefront.php:212
+msgid "Medium"
+msgstr "مامناوه‌ند"
+
+#: inc/class-storefront.php:207
+msgid "Normal"
+msgstr "ئاسایی"
+
+#: inc/class-storefront.php:202
+msgid "Small"
+msgstr "بچووک"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1080
+msgid "You can change this text by editing the \"Welcome\" page via the \"Pages\" menu in your dashboard."
+msgstr "دەتوانیت ئەم دەقە بگۆڕیت بە دەستکاریکردنی پەڕەی \"بەخێرهاتن\" لەڕێگەی پێڕستی \"پەڕەکان\"ەوە لە پێشخاندا."
+
+#: inc/nux/class-storefront-nux-starter-content.php:1076
+msgid "This is your homepage which is what most visitors will see when they first visit your shop."
+msgstr "ئەمە پەڕەی سەرەتایە کە ئەو شوێنەیە زۆربەی سەردانکەران دەیبینن کاتێک بۆ یەکەم جار سەردانی فرۆشگاکەت دەکەن."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/storefront-template-functions.php:523
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "دەستکاری <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/storefront-template-functions.php:561
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "تاگ:"
+msgstr[1] "تاگەکان:"
+
+#: inc/storefront-template-functions.php:555
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "هاوپۆل:"
+msgstr[1] "هاوپۆله‌كان:"
+
+#. translators: %s: post date
+#: inc/storefront-template-functions.php:468
+msgid "Posted on %s"
+msgstr "لە %s پۆستکراوە"
+
+#: inc/storefront-template-functions.php:474
+msgid "by"
+msgstr "له‌لایه‌ن"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:891
+msgid "Product Brands"
+msgstr "براندی بەرهەمەکان"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:874
+msgid "Shop by Brand"
+msgstr "بەپێ براند بازاڕبکە"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:838
+msgid "You're viewing:"
+msgstr "تۆ تەماشای:"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:774
+msgid "More products"
+msgstr "به‌رهه‌می زیاتر:"
+
+#: inc/storefront-template-functions.php:594
+msgid "Previous post:"
+msgstr "بابەتی پێشوو:"
+
+#: inc/storefront-template-functions.php:593
+msgid "Next post:"
+msgstr "بابەتی داهاتوو:"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:99
+msgid "Displays next and previous links on product pages. A product thumbnail is displayed with the title revealed on hover."
+msgstr "لینکی داهاتوو لەگەڵ پێشتر لە پەڕەی بەرهەمەکاندا نیشان بدە. وێنۆچکەی بەرهەمەکە دەخرێتە ڕوو لەگەڵ خستنەڕووی ناونیشان کاتێک بەسەریدا دەگوزەرێت."
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:98
+msgid "Product Pagination"
+msgstr "بەپەڕەکردنی بەرهەم"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:88
+msgid "A small content bar at the top of the browser window which includes relevant product information and an add-to-cart button. It slides into view once the standard add-to-cart button has scrolled out of view."
+msgstr "شریتێکی بچوکی ناوەڕۆکە لە سەرەوەی پەنجەرەی وێبگەڕدا کە زانیاری بەرهەمی پەیوەندیدار و دوگمەی زیادکردن بۆ سەبەتە لەخۆدەگرێت. دێتەوە بەرچاو هەرکات دوگمەی ستانداردی زیادکردن بۆ سەبەتە لە بەرچاو لاچوو."
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:87
+msgid "Sticky Add-To-Cart"
+msgstr "زیادکردن بۆ سەبەتە کە لاناچێت"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:60
+msgid "Product Page"
+msgstr "پەڕەی بەرهەم"
+
+#: inc/customizer/class-storefront-customizer.php:293
+msgid "Hero text color"
+msgstr "ڕەنگی دەقی هێرۆ"
+
+#: inc/customizer/class-storefront-customizer.php:269
+msgid "Hero heading color"
+msgstr "ڕەنگی ناونیشانی هێرۆ"
+
+#: inc/class-storefront.php:362
+msgid "Collapse child menu"
+msgstr "بچووکردنەوەی پێڕستی منداڵ"
+
+#: inc/class-storefront.php:361
+msgid "Expand child menu"
+msgstr "گەورەکردنی پێڕستی منداڵ"
+
+#: inc/storefront-template-functions.php:142
+msgid "Built with Storefront &amp; WooCommerce"
+msgstr "بە ستۆرفڕەنت و ووکۆمێرس دروستکراوە"
+
+#: inc/storefront-template-functions.php:142
+msgid "WooCommerce - The Best eCommerce Platform for WordPress"
+msgstr "ووکۆمێرس - باشترین سەکۆی بازرگانی ئەلکترۆنی بۆ وێردپرێس"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:126
+msgid "Organize your menus by adding Pages, Categories, Tags, and Custom Links."
+msgstr "پێڕستەکانت ڕێکبخە لەڕێگەی زیادکردنی پەڕە، پۆلێنەکان، تاگەکان و بەستەری داوایی."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:125
+msgid "Customize your navigation menus"
+msgstr "پێڕستەکانی ڕێنیشاندەرت دەستکاری بکە"
+
+#: inc/class-storefront.php:496
+msgid "Post Navigation"
+msgstr "ڕێنیشاندەری بڵاوکراوە"
+
+#: comments.php:60
+msgid "Comment Navigation Below"
+msgstr "ڕێنیشاندەری سەرنج لەخوارەوە"
+
+#: comments.php:40
+msgid "Comment Navigation Above"
+msgstr "ڕێنیشاندەری سەرنج لەسەرەوە"
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr "سەرنجەکانی بڵاوکراوە"
+
+#: 404.php:39
+msgid "Promoted Products"
+msgstr "بەرهەمە بانگەشەبۆکراوەکان"
+
+#: inc/admin/class-storefront-admin.php:191
+#: inc/admin/class-storefront-plugin-install.php:62
+msgid "Activated"
+msgstr "چالاککرا"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:576
+msgid "Best Selling Products"
+msgstr "بەرهەمە پڕفرۆشەکان"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:521
+msgid "On Sale Products"
+msgstr "بەرهەمە داشکێندراوەکان"
+
+#: inc/storefront-template-functions.php:310
+msgid "Edit this section"
+msgstr "ئەم بەشە دەستکاری بکە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:950
+msgid "Vneck Tshirt"
+msgstr "تیشێرتی یەخە حەوتی"
+
+#: inc/nux/class-storefront-nux-starter-content.php:929
+msgid "Tshirt"
+msgstr "تیشێرت"
+
+#: inc/nux/class-storefront-nux-starter-content.php:908
+msgid "Polo"
+msgstr "پۆڵۆ"
+
+#: inc/nux/class-storefront-nux-starter-content.php:887
+msgid "Long Sleeve Tee"
+msgstr "بلوزی قٶڵ درێژ"
+
+#: inc/nux/class-storefront-nux-starter-content.php:865
+msgid "Hoodie"
+msgstr "بلوسی کڵاودار"
+
+#: inc/nux/class-storefront-nux-starter-content.php:844
+msgid "Hoodie with Zipper"
+msgstr "بلوزی کڵاودار بە زنجیر"
+
+#: inc/nux/class-storefront-nux-starter-content.php:822
+msgid "Hoodie with Pocket"
+msgstr "بلوزی کڵاودار بە گیرفان"
+
+#: inc/nux/class-storefront-nux-starter-content.php:801
+msgid "Hoodie with Logo"
+msgstr "بلوزی کڵاودار بە لۆگۆ"
+
+#: inc/nux/class-storefront-nux-starter-content.php:780
+msgid "Sunglasses"
+msgstr "عەینەک"
+
+#: inc/nux/class-storefront-nux-starter-content.php:758
+msgid "Cap"
+msgstr "کڵاو"
+
+#: inc/nux/class-storefront-nux-starter-content.php:736
+msgid "Belt"
+msgstr "قایش"
+
+#: inc/nux/class-storefront-nux-starter-content.php:714
+msgid "Beanie"
+msgstr "کلێتە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:708
+msgid "Tshirts"
+msgstr "تیشێرت"
+
+#: inc/nux/class-storefront-nux-starter-content.php:705
+msgid "Hoodies"
+msgstr "بلوزی کڵاودار"
+
+#: inc/nux/class-storefront-nux-starter-content.php:703
+#: inc/nux/class-storefront-nux-starter-content.php:706
+#: inc/nux/class-storefront-nux-starter-content.php:709
+msgid "A short category description"
+msgstr "وەسفێکی کورتی پۆلێن"
+
+#: inc/nux/class-storefront-nux-starter-content.php:702
+msgid "Accessories"
+msgstr "کەمالیات"
+
+#: inc/nux/class-storefront-nux-starter-content.php:77
+msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
+msgstr "ئەمە پەڕەیەکە هەندێک زانیاری سەرەتایی تێدایە وەکو نانیشان و ژمارەی تەلەفۆن. دەتوانیت لەڕێگەی پڵەگینەوە فۆرمی پەیوەندیش تاقیبکەیتەوە."
+
+#: inc/nux/class-storefront-nux-starter-content.php:76
+msgid "Contact"
+msgstr "پەیوەندی"
+
+#: inc/nux/class-storefront-nux-starter-content.php:72
+msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
+msgstr "ڕەنگە تۆ هونەرمەندێک بیت کە دەخوازیت خۆت و کارەکانت لێرە بناسێنێت یاخود خاونکاریک بیت کە ئامانجێکت هەیە وەسفی بکەیت."
+
+#: inc/nux/class-storefront-nux-starter-content.php:71
+msgid "About"
+msgstr "دەربارە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1072
+msgid "Welcome"
+msgstr "بەخێربێن"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:147
+msgid "Done"
+msgstr "ئەنجامدرا"
+
+#. translators: 1: open <strong> tag, 2: close <strong> tag, 3: 'End Of Line'
+#. symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:145
+msgid "All set! Remember to %1$ssave & publish%2$s your changes when you're done.%3$sYou can return to your dashboard by clicking the X in the top left corner."
+msgstr "تەواو ئامادە! بیرت نەچێت کە تەواوبوویت گۆرانکارییەکانت %1$sهەڵبگریت و %2$sبڵاوبکەیتەوە. %3$sبە کرتەکردن لە نیشانەی زەڕبەکە لەلای چەپی سەرەوە دەتوانیت بگەڕێیتەوە بۆ پێشخانەکەت"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:138
+msgid "Choose colors for your button backgrounds and text. Once again, brand colors are good choices here."
+msgstr "ڕەنگ بۆ باکگراوند و دەقی دوگمەکەت هەڵبژێرە. دووبارە، ڕەنگی براندەکەت بژاردەیەکی باشن بۆ ئێرە."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:137
+msgid "Color your buttons"
+msgstr "دوگمەکانت ڕەنگ بە"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:132
+msgid "In the typography panel you can specify an accent color which will be applied to things like links and star ratings. We recommend using your brand color for this setting."
+msgstr "دەتوانیت لە پانێڵی نوسیندا سێبەری ڕەنگێک دیاریبکەیت کە دواتر بەکاردێت بۆ شتی وەکو بەستەرەکان و پلەپێدانی ئەستێرە. ئێمە پێشنیاری بەکارهێنانی ڕەنگی براندەکەت دەکەین بۆ ئەم ڕێکخستنە"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:131
+msgid "Choose your accent color"
+msgstr "سێبەری ڕەنگەکەت هەڵبژێرە"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:119
+msgid "Open the Site Identity Panel, then click the 'Select Logo' button to upload your logo."
+msgstr "بۆ بارکردنی لۆگۆی خۆت پانێڵی شوناسی سایت بکەرەوە، پاشان کرتە بکە لە دوگمەی  'لۆگۆ هەڵبژێرە'"
+
+#. translators: %s: 'End Of Line' symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:111
+msgid "Here you can control the overall look and feel of your store.%sTo get started, let's add your logo"
+msgstr "لێرەوە  دەتوانیت کۆنترۆڵی ڕوخسار و هەستی گشتی فرۆشگاکەت بکەیت.%sبۆ دەستپێکردن، با لۆگۆکەت دابنێین."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:109
+msgid "Welcome to the Customizer"
+msgstr "بەخێربێیت بۆ ئامرازی خوازەکردن"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:91
+msgid "Skip this step"
+msgstr "ئەم هەنگاوە بپەڕێنە"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:89
+msgid "No thanks, skip the tour"
+msgstr "نا، سوپاس. پیاداگەڕان بپەڕێنە"
+
+#: inc/nux/class-storefront-nux-admin-inbox-messages-customize.php:42
+#: inc/nux/class-storefront-nux-admin.php:180
+#: inc/nux/class-storefront-nux-guided-tour.php:112
+msgid "Let's go!"
+msgstr "با دەستپێبکەین!"
+
+#: inc/nux/class-storefront-nux-admin.php:174
+msgid "Add example products"
+msgstr "نمونەی بەرهەم زیادبکە"
+
+#: inc/nux/class-storefront-nux-admin.php:164
+msgid "Create a homepage using Storefront's homepage template"
+msgstr "پەڕەی سەرەتا دروست بکە بە بەکارهێنانی کڵێشەی پەڕەی سەرەتای ستۆرفڕەنت"
+
+#: inc/nux/class-storefront-nux-admin.php:162
+msgid "Apply the Storefront homepage template"
+msgstr "کڵێشەی پەڕەی سەرەکی سترۆفڕەنت جێبەجێبکە"
+
+#: inc/nux/class-storefront-nux-admin.php:140
+msgid "You've set up WooCommerce, now it's time to give it some style! Let's get started by entering the Customizer and adding your logo."
+msgstr "ووکۆمێرست دامەزراندووە، ئێستاش کاتی ئەوەیە کەمێک ستایلی بۆ دانێیت! با دەستپێبکەین بەچوونە ناو بەشی چاککردن و زیادکردنی لۆگۆکەت."
+
+#: inc/nux/class-storefront-nux-admin.php:138
+msgid "Before you add your first product let's design your store. We'll add some example products for you. When you're ready let's get started by adding your logo."
+msgstr "پێش ئەوەی یەکەم بەرهەمت زیاد بکەیت، سەرەتا با دیزاینی فرۆشگاکەت بکەین. ئێمە نمونەی چەند بەرهەمێکت بۆ زیاد دەکەین. هەرکات تۆ ئامادەبوویت با دەستپێبکەین بە زیادکردنی لۆگۆی تۆ."
+
+#: inc/nux/class-storefront-nux-admin.php:134
+msgid "Design your store 🎨"
+msgstr "کۆگاکەت دیزاین بکە"
+
+#: inc/nux/class-storefront-nux-admin.php:130
+msgid "Activate WooCommerce"
+msgstr "ووکۆمێرس چالاک بکە"
+
+#: inc/nux/class-storefront-nux-admin.php:130
+msgid "WooCommerce activated"
+msgstr "ووکۆمێرس چالاک کرا"
+
+#: inc/nux/class-storefront-nux-admin.php:129
+msgid "To enable eCommerce features you need to install the WooCommerce plugin."
+msgstr "بۆ کاراکردنی خاسییەتەکانی ووکۆمێرس پێیوستە پڵەگینی ووکۆمێرس دابمەزرێنیت."
+
+#: inc/nux/class-storefront-nux-admin.php:128
+msgid "Thanks for installing Storefront, you rock! 🤘"
+msgstr "سوپاس بۆ دامەزراندنی ستۆرفڕەنت، تۆ کەسێکی ناوازەیت!"
+
+#. translators: 1: column number, 2: row number
+#: inc/class-storefront.php:289
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr "ئەو ویجێتانەی لێرە زیاد دەکرێن لە ستونی %1$dی ڕیزی دامێنی %2$d دەردەکەون"
+
+#. translators: 1: row number, 2: column number
+#: inc/class-storefront.php:286
+msgid "Footer Row %1$d - Column %2$d"
+msgstr "ڕیزی دامێنی %1$d - ستونی %2$d"
+
+#. translators: 1: column number
+#: inc/class-storefront.php:283
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr "ئەو ویجێتانەی لێرە زیاد دەکرێن لە ستونی %1$dی ڕیزی دامێن دەردەکەون"
+
+#. translators: 1: column number
+#: inc/class-storefront.php:280
+msgid "Footer Column %1$d"
+msgstr "ستونی دامێن %1$d"
+
+#: inc/admin/class-storefront-admin.php:224
+msgid "Learn more"
+msgstr "زیاتر بزانە"
+
+#: inc/admin/class-storefront-admin.php:217
+#: inc/admin/class-storefront-plugin-install.php:96
+msgid "Install now"
+msgstr "ئێستا دایبەزێنە"
+
+#: inc/admin/class-storefront-admin.php:153
+msgid "Check 'em out"
+msgstr "بزانە چۆنن"
+
+#: inc/admin/class-storefront-admin.php:149
+msgid "Of course they are all fully compatible with each Storefront extension."
+msgstr "بێگومان هەموو تەواو گونجاون لەگەڵ هەریەک لە زیادکراوەکانی ستۆرفڕەنتدا."
+
+#: inc/admin/class-storefront-admin.php:145
+msgid "Each has been designed to serve a different industry - from fashion to food."
+msgstr "هەریەک بۆ خزمەتی بوارێکی جودا دیزاینکراون - لە پۆشاکەوە تا خۆراک."
+
+#: inc/admin/class-storefront-admin.php:141
+msgid "Quickly and easily transform your shops appearance with Storefront child themes."
+msgstr "لەڕێگەی ڕووکاری منداڵی سترۆفڕەنتەوە بە شێوەیەکی خێرا ڕوخساری فرۆشگاکانت بگۆریت."
+
+#: inc/admin/class-storefront-admin.php:137
+msgid "Alternate designs"
+msgstr "دیزاینی جێگرەوە"
+
+#: inc/admin/class-storefront-admin.php:133
+msgid "Read more and purchase"
+msgstr "زیاتر بخوێنەوە و بکرە"
+
+#: inc/admin/class-storefront-admin.php:128
+msgid "Make it yours without touching code with the Storefront Extensions bundle. Express yourself, optimize conversions, delight customers."
+msgstr "بەبێ دەستدان لە کۆد لەڕێگەی درێژکراوەکانی ستۆرفڕەنت-ەوە بیکە بە هی خۆت. خۆت دەرببڕە، فرۆش زیاد بکە، کڕیارات خۆشحاڵبکە."
+
+#: inc/admin/class-storefront-admin.php:124
+msgid "All the tools you'll need to define your style and customize Storefront."
+msgstr "هەموو ئەو ئامرازانەی پێویستت دەبێت بۆ دەستنیشانکردنی ستایلەکەت و دەستاریکردنی ستۆرفڕەنت."
+
+#: inc/admin/class-storefront-admin.php:118
+msgid "Storefront Extensions Bundle"
+msgstr "بەستەی زیادکراوەکانی سترۆفڕەنت"
+
+#: inc/admin/class-storefront-admin.php:107
+msgid "Hello! You might be interested in the following Storefront extensions and designs."
+msgstr "سڵاو! ڕەنگە ئارەزووت لێبێت پێڕەوی زیادکراو و دیزاینەکانی ستۆرفڕەنت بیت."
+
+#: inc/admin/class-storefront-admin.php:105
+msgid "One more thing... You might be interested in the following Storefront extensions and designs."
+msgstr "یەکی شتی تر...ڕەنگە ئارەزووت لێبێت پێڕەوی زیادکراو و دیزاینەکانی ستۆرفڕەنت بیت."
+
+#. translators: 1: HTML, 2: HTML
+#: inc/admin/class-storefront-admin.php:104
+msgid "Setup complete %1$sYour Storefront adventure begins now 🚀%2$s "
+msgstr "دامەزراندن تەواو بوو %1$s سەرکێشی ستۆرفڕەنت-ی تۆ ئێستا دەستپێدەکات 🚀%2$s "
+
+#: inc/admin/class-storefront-admin.php:76
+msgid "Development blog"
+msgstr "بڵۆگی بەڵگەکاری"
+
+#: inc/admin/class-storefront-admin.php:75
+msgid "Documentation"
+msgstr "بەڵگەکاری"
+
+#: inc/admin/class-storefront-admin.php:74
+msgid "Support"
+msgstr "پشتیوانی"
+
+#: inc/class-storefront.php:267
+msgid "Widgets added to this region will appear beneath the header and above the main content."
+msgstr "ئەو ویجێتانەی بۆ ئەم ناوچەیە زیاد دەکرێن لەژێرسەرپەڕە و لەسەروو پێڕستی سەرکییەوە دەردەکەون."
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:746
+msgid "My Account"
+msgstr "هەژماری من"
+
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:716
+msgid "Search"
+msgstr "گەڕان"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1047
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:555
+msgid "Best Sellers"
+msgstr "پرفرۆشترینەکان"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1035
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:443
+msgid "Fan Favorites"
+msgstr "دڵخوازی کڕیاران"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1106
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:387
+msgid "We Recommend"
+msgstr "پێشنیاری ئێمە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1027
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:331
+msgid "New In"
+msgstr "تازە هاتووە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1019
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:276
+msgid "Shop by Category"
+msgstr "بەپێی پۆلێن بازاڕبکە"
+
+#: inc/storefront-template-functions.php:242
+msgid "Menu"
+msgstr "پێڕست"
+
+#: inc/class-storefront.php:265
+msgid "Below Header"
+msgstr "خوار سەرپەڕە"
+
+#. translators: %s: Storefront
+#: inc/customizer/class-storefront-customizer-control-more.php:36
+msgid "Enjoying %s?"
+msgstr "%s بەدڵە؟"
+
+#. translators: %s: Automattic branding
+#: inc/admin/class-storefront-admin.php:162
+msgid "An %s project"
+msgstr "پرۆژەیەکی %s"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:640
+msgid "New In Store"
+msgstr "نوێ لە فرۆشگا"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:627
+msgid "On Sale Now"
+msgstr "ئێستا داشکاندنی بۆکراوە"
+
+#: inc/storefront-template-functions.php:580
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "پێشتر"
+
+#: inc/storefront-template-functions.php:579
+msgctxt "Next post"
+msgid "Next"
+msgstr "دواتر"
+
+#: inc/customizer/class-storefront-customizer.php:308
+msgid "Header background image"
+msgstr "وێنەی باکگراوندی سەرپەڕە"
+
+#: 404.php:60 404.php:62
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:464
+msgid "Popular Products"
+msgstr "بەرهەمی پڕجەماوەر"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "هیچ لەم شوێنەدا نەدۆزرایەوە. هەوڵی گەڕان بدە یان بڕوانە بەستەرەکانی خوارەوە."
+
+#. Template Name of the theme
+#: inc/nux/class-storefront-nux-starter-content.php:66
+msgid "Homepage"
+msgstr "پەڕەی سەرەکی"
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "پانی تەواوەتی"
+
+#. translators: %s: search term
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "ئەنجامەکانی گەڕان بۆ: %s"
+
+#. translators: %d: number of items in cart
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:93
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d دانە"
+msgstr[1] "%d دانە"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:91
+msgid "View your shopping cart"
+msgstr "سەبەتەی بازاڕکردنەکەت تەماشا بکە"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1041
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:499
+msgid "On Sale"
+msgstr "داشکاندن"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:409
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:614
+msgid "Featured Products"
+msgstr "بەرهەمە تایبەتەکان"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:352
+msgid "Recent Products"
+msgstr "بەرهەمەکانی ئەم دواییانە"
+
+#: 404.php:45 404.php:47
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:297
+msgid "Product Categories"
+msgstr "پۆلێنی بەرهەمەکان"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:83
+msgid "Next"
+msgstr "دواتر"
+
+#: inc/storefront-template-functions.php:483
+msgid "% Comments"
+msgstr "%s لێدوان"
+
+#: inc/storefront-template-functions.php:483
+msgid "1 Comment"
+msgstr "1 لێدوان"
+
+#: inc/storefront-template-functions.php:483
+msgid "Leave a comment"
+msgstr "لێدوانێک بنووسە"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:546
+#: inc/storefront-template-functions.php:549
+msgid ", "
+msgstr "، "
+
+#. translators: %s: post title
+#: inc/storefront-template-functions.php:418
+msgid "Continue reading %s"
+msgstr "بەردەوام بە لە خویندنەوەی %s"
+
+#: inc/storefront-template-functions.php:356
+#: inc/storefront-template-functions.php:427
+msgid "Pages:"
+msgstr "په‌ڕه‌كان:"
+
+#: inc/storefront-template-functions.php:298
+msgid "Skip to content"
+msgstr "بازدان بۆ ناوه‌ڕۆك"
+
+#: inc/storefront-template-functions.php:297
+msgid "Skip to navigation"
+msgstr "بیپەڕێنە بۆ ڕێنیشاندەری"
+
+#: inc/storefront-template-functions.php:273
+msgid "Secondary Navigation"
+msgstr "ڕێنیشاندەری لاوەکی"
+
+#: inc/storefront-template-functions.php:241
+msgid "Primary Navigation"
+msgstr "ڕێنیشاندەری سەرەتایی"
+
+#: inc/storefront-template-functions.php:75
+msgid "Edit"
+msgstr "ده‌ستكاری"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "لێدوانەکەت چاوەڕێی پەسەندبوونە."
+
+#: inc/class-storefront.php:259
+msgid "Sidebar"
+msgstr "لاتەنیشت (Sidebar)"
+
+#: inc/class-storefront.php:97
+#: inc/nux/class-storefront-nux-starter-content.php:192
+msgid "Handheld Menu"
+msgstr "پێڕستی دەستی"
+
+#: inc/class-storefront.php:96
+#: inc/nux/class-storefront-nux-starter-content.php:182
+msgid "Secondary Menu"
+msgstr "مینوی دووەمی"
+
+#: inc/class-storefront.php:95
+#: inc/nux/class-storefront-nux-starter-content.php:162
+msgid "Primary Menu"
+msgstr "پێرستی سەرەتایی"
+
+#: inc/customizer/class-storefront-customizer.php:663
+msgid "Looking for more options?"
+msgstr "بۆ بژاردەی زیاتر دەگەڕێیت؟"
+
+#: inc/customizer/class-storefront-customizer.php:645
+msgid "More"
+msgstr "زیاتر"
+
+#: inc/customizer/class-storefront-customizer.php:628
+msgid "General Layout"
+msgstr "کڵێشەی گشتی"
+
+#: inc/customizer/class-storefront-customizer.php:608
+msgid "Layout"
+msgstr "گەڵاڵەبەندیی"
+
+#: inc/customizer/class-storefront-customizer.php:594
+msgid "Alternate button text color"
+msgstr "گۆڕانبکە لە ڕەنگی دەقی دوگمەدا"
+
+#: inc/customizer/class-storefront-customizer.php:570
+msgid "Alternate button background color"
+msgstr "گۆڕانبکە لە ڕەنگی باکگراوندی دوگمەدا"
+
+#: inc/customizer/class-storefront-customizer.php:502
+msgid "Customize the look & feel of your website buttons."
+msgstr "شێوە و هەستی دوگمەکانی ماڵپەڕەکەت بە دڵی خۆت دەستکاری بکە."
+
+#: inc/customizer/class-storefront-customizer.php:500
+msgid "Buttons"
+msgstr "دوگمەکان"
+
+#: inc/customizer/class-storefront-customizer.php:394
+msgid "Customize the look & feel of your website footer."
+msgstr "شێوە و هەستی دامێنی ماڵپەڕەکەت بە دڵی خۆت دەستکاری بکە."
+
+#: inc/customizer/class-storefront-customizer.php:392
+msgid "Footer"
+msgstr "پێپه‌ڕه‌"
+
+#: inc/customizer/class-storefront-customizer.php:378
+#: inc/customizer/class-storefront-customizer.php:486
+msgid "Link color"
+msgstr "ڕەنگی بەستەر"
+
+#: inc/customizer/class-storefront-customizer.php:330
+#: inc/customizer/class-storefront-customizer.php:414
+#: inc/customizer/class-storefront-customizer.php:522
+msgid "Background color"
+msgstr "ڕەنگی پاشبنەما"
+
+#: inc/customizer/class-storefront-customizer.php:197
+#: inc/customizer/class-storefront-customizer.php:438
+msgid "Heading color"
+msgstr "ڕەنگی سەرپەڕە"
+
+#: inc/customizer/class-storefront-customizer.php:221
+#: inc/customizer/class-storefront-customizer.php:354
+#: inc/customizer/class-storefront-customizer.php:462
+#: inc/customizer/class-storefront-customizer.php:546
+msgid "Text color"
+msgstr "رەنگی نووسین"
+
+#: inc/customizer/class-storefront-customizer.php:245
+msgid "Link / accent color"
+msgstr "بەستەر / سێبەری ڕەنگ"
+
+#: inc/customizer/class-storefront-customizer.php:176
+msgid "Typography"
+msgstr "نوسین"
+
+#: inc/customizer/class-storefront-customizer.php:127
+msgid "Header"
+msgstr "سه‌رپه‌ڕه"
+
+#: inc/customizer/class-storefront-customizer.php:123
+msgid "Background"
+msgstr "پاشه‌بنه‌ما"
+
+#. translators: 1: start <a> tag, 2: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:43
+msgid "Why not leave us a review on %1$sWordPress.org%2$s?  We'd really appreciate it!"
+msgstr "بۆچی بیروڕای خۆتمان بۆ نانوسیت لە %1$sWordPress.org%2$s؟ زۆریش پێزانینمان دەبێت بۆی!"
+
+#. translators: 1: Storefront, 2: start <a> tag, 3: Storefront, 4: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:29
+msgid "There's a range of %1$s extensions available to put additional power in your hands. Check out the %2$s%3$s%4$s page in your dashboard for more information."
+msgstr "زنجیرەیەک %1$s زیادکراو بەردەستە تا هێزی زیاتر بخاتە ژێردەستی تۆ. بۆ زانیاری زیاتر بڕوانە پەڕەکانی %2$s%3$s%4$s لە پێشخانەکەتدا"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:118
+msgid "Add your logo"
+msgstr "لۆگۆکەت زیاد بکە"
+
+#: inc/nux/class-storefront-nux-admin.php:130
+msgid "Install WooCommerce"
+msgstr "ووکۆمێرس دابمەزرێنە"
+
+#: inc/admin/class-storefront-admin.php:200
+#: inc/admin/class-storefront-plugin-install.php:75
+msgid "Activate"
+msgstr "چالاکكردن"
+
+#: content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ئەمە لەوە دەچیت کە تۆ بەدوای دەگەڕێی. لەوانەیە گەڕان یارمەتیت بدات"
+
+#: content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ببورە، بەڵام هیچ شتێک وەک ئەوەی بۆی دەگەڕیی نەدۆزرایەوە، تکایە دووبارە هەوڵبدە بە وشەکلیلی جیاواز."
+
+#. translators: 1: URL
+#: content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ئامادەی بۆ بلاوکردنەوەی یەکەمین بابەتت؟  <a href=\"%1$s\">لیرە دەست پێبکە</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "هیچ نەدۆزرایەوە"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "لێدووان داخراوە ."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "لێدوانی نوێتر &rarr;"
+
+#: comments.php:42 comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; سەرنجی کۆنتر"
+
+#: comments.php:41 comments.php:61
+msgid "Comment navigation"
+msgstr "ڕێنیشاندەری سەرنج"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s یادێک بۆ &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s یادەکان بۆ &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ئۆه! ئەم لاپەڕەیە نەدۆزرایەوە."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Automattic"
+msgstr "ئۆتۆماتتک"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://woocommerce.com/storefront/"
+msgstr "https://woocommerce.com/storefront/"
